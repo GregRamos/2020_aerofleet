@@ -12,7 +12,7 @@ class AerofleetController extends AbstractController
      */
     public function homepage()
     {
-        return $this->render('aerofleet/homepage.html.twig', [
+        return $this->render('aerofleet/_homepage.html.twig', [
             'controller_name' => 'AerofleetController',
         ]);
     }

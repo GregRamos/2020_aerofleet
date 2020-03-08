@@ -1,0 +1,35 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}Aerofleet{% endblock %}
+
+{% block body %}
+
+    {% block nav %}
+       {{include ('aerofleet/navbar.html.twig')}}
+    {% endblock %}
+
+    {% block apropos %}
+        {{include ('aerofleet/a_propos.html.twig')}}
+    {% endblock %}
+
+    {% block magasin %}
+        {{include ('aerofleet/magasin.html.twig')}}
+    {% endblock %}
+
+    {% block medias %}
+        {{include ('aerofleet/medias.html.twig')}}
+    {% endblock %}
+
+    {% block activites %}
+        {{include ('aerofleet/activites.html.twig')}}
+    {% endblock %}
+
+    {% block contact %}
+        {{include ('aerofleet/contact.html.twig')}}
+    {% endblock %}
+
+    {% block footer %}
+        {{include ('aerofleet/footer.html.twig')}}
+    {% endblock %}
+
+{% endblock %}

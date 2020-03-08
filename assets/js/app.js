@@ -14,5 +14,7 @@ import $ from 'jquery';
 
 //import greet from './components/greet';
 
-
 require('bootstrap');
+
+import './components/navbar';
+
