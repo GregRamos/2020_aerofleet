@@ -18,3 +18,9 @@ require('bootstrap');
 
 import './components/navbar';
 
+import animeH1 from './components/anime_h1';
+animeH1();
+
+
+
+

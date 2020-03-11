@@ -1,0 +1,83 @@
+.ml15 {
+    font-weight: 800;
+    font-size: 3.2em;
+    text-transform: uppercase;
+    letter-spacing: 0.5em;
+    color: $my-white;
+}
+
+.ml15 .word{
+    display: inline-block;
+    line-height: 1em;
+}
+
+html{
+    scroll-behavior: smooth;
+
+    header {
+        div{
+            div{
+                h1{
+                    a{
+                        text-decoration: none !important;
+                        font-size: 1.2em !important; /* 40px/16=2.5em */
+                        color: $my-blue;
+                        &:hover{ color: $my-white !important;}
+                        &:active{ color: $my-white !important;}
+                    }
+
+                }
+            }
+        }
+
+        hr
+        {
+            border-top: 1px solid $my-blue;
+        }
+
+        nav{
+            a{
+                text-decoration: none !important;
+                color: $my-blue;
+                font-size: 1.2em;
+                &:hover{ color: $my-white !important;}
+                &:active{ color: $my-white !important;}
+            }
+        }
+
+        section{
+            h2{
+                color: $my-white;
+            }
+            p{
+                color: $my-white;
+            }
+        }
+    }
+}
+
+
+
+
+h2 {
+    font-size: 1.55em !important; /* 30px/16=1.875em */
+    color: $my-brown;
+}
+h3{
+    font-size: 1.10em !important; /* 30px/16=1.875em */
+}
+h4{
+    font-size: 1.05em !important;
+}
+h5{
+    font-size: 1.0em !important;
+}
+
+h6{
+    font-size: 0.9em !important;
+}
+
+
+.navbar-brand{
+    color: #1b9448;
+}

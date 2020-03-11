@@ -9,16 +9,11 @@ if (!Encore.isRuntimeEnvironmentConfigured()) {
 Encore
     // directory where compiled assets will be stored
     .setOutputPath('public/build/')
-    .enableVersioning()
+
 
 // public path used by the web server to access the output path
     .setPublicPath('/build')
 
-    .copyFiles({
-        from: './assets/images',
-    })
-
-    .enableVersioning()
     // only needed for CDN's or sub-directory deploy
     //.setManifestKeyPrefix('build/')
 
@@ -63,6 +58,12 @@ Encore
 
     // enables Sass/SCSS support
     .enableSassLoader()
+
+    .copyFiles({
+        from: './assets/images',
+        to: 'images/[path][name].[hash:8].[ext]'
+    })
+    .enableVersioning()
 
     // uncomment if you use TypeScript
     //.enableTypeScriptLoader()

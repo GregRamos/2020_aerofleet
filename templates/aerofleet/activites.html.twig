@@ -1,7 +1,58 @@
-<div class="container" id="activites">
+<hr>
+<section class=" text-center" id="activites">
+    <h2 class="text-center">Activités</h2>
     <hr>
-    <br><br><br><br><br>
-    <h2>activités</h2>
-    <br><br><br><br><br>
-    <hr>
-</div>
+
+    <div class="row">
+        <div class="col-sm-4">
+            <div>
+                <h3>Nautisme</h3>
+                <a href="#nautisme"><img class="img-activites rounded-circle" alt="Rcws fn defender" src="{{ asset('build/images/activites/miniature_aero_45_open_voile_ouverte.jpeg') }}" ></a>
+            </div>
+
+        </div>
+        <div class="col-sm-4">
+            <div data-toggle="collapse" data-target="#collapse_spatial_nautisme">
+                <h3>Spatial et Aéronautique</h3>
+                <img class="img-activites rounded-circle" alt="Rcws fn defender" src="{{ asset('build/images/activites/miniature_dome.jpg') }}" >
+            </div>
+            <div id="collapse_spatial_nautisme" class="collapse">
+                <p>Aerofleet fabrique du matériel de haute technologie : des matériaux composites pour le domaine aéronautique (programme Airbus) mais aussi pour le domaine spatial avec notamment un dôme (coupole) de protection pour le télescope VLT.</p>
+            </div>
+        </div>
+        <div class="col-sm-4">
+            <div data-toggle="collapse" data-target="#collapse_moulage">
+                <h3>Moulage</h3>
+                <img class="img-activites rounded-circle" alt="Rcws fn defender" src="{{ asset('build/images/activites/miniature_moule.jpeg') }}" >
+            </div>
+            <div id="collapse_moulage" class="collapse">
+                <p>Moulage de pièces archéologiques (ossements, industries, sol), moulage anatomique et corporelle (immortalisation de grossesses, buste, mains, trophée) ainsi que divers moulages en matériaux composites (aéronautique).</p>
+            </div>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-sm-4">
+            <div data-toggle="collapse" data-target="#collapse_militaire">
+                <h3>Militaire</h3>
+                <img class="img-activites rounded-circle" alt="Rcws fn defender" src="{{ asset('build/images/activites/miniature_couvercle_de_protection_rcws_fn_defender.jpeg') }}" >
+            </div>
+            <div id="collapse_militaire" class="collapse">
+                <p>AEROFLEET, grâce à son savoir-faire et son expérience a également su se positionner dans le secteur militaire à travers les matériaux composites.</p>
+            </div>
+        </div>
+        <div class="col-sm-4">
+            <div>
+                <h3>Thermolaquage</h3>
+                <a href="#thermolaquage"><img class="img-activites rounded-circle" alt="Rcws fn defender" src="{{ asset('build/images/activites/miniature_thermolaquage.jpeg') }}" ></a>
+            </div>
+        </div>
+        <div class="col-sm-4">
+            <div>
+                <h3>Piscine</h3>
+                <a href="#piscine"><img class="img-activites rounded-circle" alt="Rcws fn defender" src="{{ asset('build/images/activites/miniature_piscine.jpeg') }}" ></a>
+            </div>
+        </div>
+    </div>
+</section>
+<hr>
