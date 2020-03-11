@@ -1,6 +1,6 @@
 {
-  "build/app.css": "/build/app.b494b708.css",
-  "build/app.js": "/build/app.e11144e2.js",
+  "build/app.css": "/build/app.df709d02.css",
+  "build/app.js": "/build/app.6adb3d99.js",
   "build/runtime.js": "/build/runtime.6e3f3c3a.js",
   "build/vendors~app.js": "/build/vendors~app.463c810c.js",
   "build/images/activites/miniature_aero_45_open_voile_ouverte.jpeg": "/build/images/activites/miniature_aero_45_open_voile_ouverte.652937da.jpeg",
@@ -22,5 +22,12 @@
   "build/images/apropos/carousel_06_aerofleet_dome.jpeg": "/build/images/apropos/carousel_06_aerofleet_dome.df3880b1.jpeg",
   "build/images/apropos/carousel_aero_bome_aero_tens_aerofleet.jpeg": "/build/images/apropos/carousel_aero_bome_aero_tens_aerofleet.7066a8ad.jpeg",
   "build/images/apropos/dome_de_protection_pour_le_telescope_vlt.jpeg": "/build/images/apropos/dome_de_protection_pour_le_telescope_vlt.00544d4c.jpeg",
-  "build/images/carousel_01_telescope_vlt.jpg": "/build/images/carousel_01_telescope_vlt.e2c87e1e.jpg"
+  "build/images/carousel_01_telescope_vlt.jpg": "/build/images/carousel_01_telescope_vlt.e2c87e1e.jpg",
+  "build/images/magasin/aero_tens_aerofleet_blanc.jpeg": "/build/images/magasin/aero_tens_aerofleet_blanc.f044a800.jpeg",
+  "build/images/magasin/bome_aerofleet.jpeg": "/build/images/magasin/bome_aerofleet.b77d3e69.jpeg",
+  "build/images/nautisme/Aero_45.jpeg": "/build/images/nautisme/Aero_45.9bd6790f.jpeg",
+  "build/images/piscine/Piscine recadree.jpg": "/build/images/piscine/Piscine recadree.8893a43f.jpg",
+  "build/images/piscine/piscine_01.jpeg": "/build/images/piscine/piscine_01.e494d5c9.jpeg",
+  "build/images/piscine/piscine_02.jpeg": "/build/images/piscine/piscine_02.32a96582.jpeg",
+  "build/images/piscine/piscine_03.jpeg": "/build/images/piscine/piscine_03.66db3f75.jpeg"
 }

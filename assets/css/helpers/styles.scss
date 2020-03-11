@@ -11,10 +11,14 @@
     line-height: 1em;
 }
 
+
+
 html{
     scroll-behavior: smooth;
 
     header {
+        margin-bottom: -1em;
+        padding-bottom: 2em;
         div{
             div{
                 h1{
@@ -54,6 +58,17 @@ html{
             }
         }
     }
+    section{
+        padding: 0px 20px;
+        .card{
+            padding: 10px 10px;
+            margin: 5px;
+        }
+    }
+    footer{
+        padding: 0px 20px;
+    }
+
 }
 
 
@@ -62,6 +77,8 @@ html{
 h2 {
     font-size: 1.55em !important; /* 30px/16=1.875em */
     color: $my-brown;
+    padding-top: 20px;
+    padding-bottom: 30px;
 }
 h3{
     font-size: 1.10em !important; /* 30px/16=1.875em */
