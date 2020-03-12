@@ -21,6 +21,6 @@ import './components/navbar';
 import animeH1 from './components/anime_h1';
 animeH1();
 
-
-
+import slideAnim from './components/slideAnim';
+slideAnim();
 

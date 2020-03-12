@@ -1,82 +1,71 @@
-<hr>
-<section id="medias">
+<section id="medias" class="bg-light">
     <h2 class="text-center">medias</h2>
-
-    <div class="row">
-        <div class="col-md-3 mb-4">
-            <div class="card">
-                <div class="card-body">
-                    <h4 class="text-center default-text py-3"><i class="fa fa-lock"></i>Book</h4>
-
-                    <div class="text-center">
-                        <a href="{{ asset('') }}" class="btn btn-default waves-effect waves-light">Télécharger la brochure ici</a>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-        <div class="col-md-3 mb-4">
-            <div class="card">
-                <div class="card-body">
-                    <h4 class="text-center default-text py-3"><i class="fa fa-lock"></i>Book</h4>
-
-                    <div class="text-center">
-                        <a href="{{ asset('') }}" class="btn btn-default waves-effect waves-light">Télécharger la brochure ici</a>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-        <div class="col-md-3 mb-4">
-            <div class="card">
-                <div class="card-body">
-                    <h4 class="text-center default-text py-3"><i class="fa fa-lock"></i>Book</h4>
-
-                    <div class="text-center">
-                        <a href="{{ asset('') }}" class="btn btn-default waves-effect waves-light">Télécharger la brochure ici</a>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-        <div class="col-md-3 mb-4">
-            <div class="card">
-                <div class="card-body">
-                    <h4 class="text-center default-text py-3"><i class="fa fa-lock"></i>Book</h4>
-
-                    <div class="text-center">
-                        <a href="{{ asset('') }}" class="btn btn-default waves-effect waves-light">Télécharger la brochure ici</a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-
     <div class="row text-center">
-        <div class="col-2 border pt-3 pb-3 mr-1 ml-1">
-            <h4>BOOK</h4>
-            <img class="" src="https://img.icons8.com/ios/50/000000/book.png"/>
-            <br>
-            <a href="medias/book-aerofleet.pdf" id="medias02">Télécharger la brochure ici</a>
-            <br><br>
-        </div>
-        <div class="col-2 border pt-3 pb-3 mr-1 ml-1">
-            <h4>Presses</h4>
-            <img src="https://img.icons8.com/ios/50/000000/news.png"/>
-            <a href="presses.php" id="medias03">Quelques articles sur Aerofleet</a>
-            <br><br>
-        </div>
-        <div class="col-2 border pt-3 pb-3 mr-1 ml-1">
+        <div class="col">
             <a href="https://www.youtube.com/channel/UCXbiqFoahoznzyYOyfNEwFQ">
                 <img src="https://c866088.ssl.cf3.rackcdn.com/assets/youtube40x40.png" alt="youtube">
             </a>
+            <p>Regardez nos vidéos sur Youtube</p>
+        </div>
+        <div class="col">
+            <br><br><br><br>
+            <img class="" src="https://img.icons8.com/ios/50/000000/book.png"/>
+            <br>
+            <a href="{{asset('build/documents/book-aerofleet.pdf')}}" id="medias02">Télécharger la brochure ici</a>
             <br><br>
         </div>
-        <div class="col-2 border pt-3 pb-3 mr-1 ml-1">
+        <div class="col">
+            <br><br><br><br>
+            <img class="" src="https://img.icons8.com/ios/50/000000/book.png"/>
+            <br>
+            <a href="#collapsePresses" class="" data-toggle="collapse" id="medias02">Articles de presses</a>
+            <br><br>
+        </div>
+        <div class="col">
             <a href="https://twitter.com/aerofleetsa">
                 <img src="https://c866088.ssl.cf3.rackcdn.com/assets/twiiter40x40.png" alt="twitter">
             </a>
-            <br><br>
+            <p>Suivez nous sur Twitter</p>
+        </div>
+    </div>
+    <div class="row">
+        <div id="collapsePresses" class="collapse">
+            <div class="list-group">
+                <a class="list-group-item disabled">FRANCAIS</a>
+                <a href="{{asset('build/documents/20141129 Tests catamaran.pdf')}}" class="list-group-item">Des "tests encourageants" pour le catamaran électro-solaire d'Aerofleet</a>
+                <a href="http://www.faiteslepleindavenir.com/2014/11/04/catamaran-electro-solaire/" class="list-group-item">Le catamaran à l'energie renouvelable</a>
+                <a href="http://www.bateaux.com/article/18855/Un-catamaran-hauturier-electrique" class="list-group-item">Un catamaran hauturier 100 % électrique (Bateaux.com)</a>
+                <a href="{{asset('build/documents/20141022103032745.pdf')}}" class="list-group-item">Ses bateaux high-tech on le vent en poupe</a>
+                <a href="{{asset('build/documents/20140912114928978.pdf')}}" class="list-group-item">Aerofleet présente un catamaran autonome en énergies fossiles</a>
+                <a href="{{asset('build/documents/20140822 64-67 SALONS NOUVEAUTS FR.pdf')}}" class="list-group-item">Salons nautiques, toutes les nouveautés saison 2014/2015</a>
+                <a href="{{asset('build/documents/20140726 Lavant garde.pdf')}}" class="list-group-item">Aerofleet, l'entreprise multicoque (l'avant garde)</a>
+                <a href="{{asset('build/documents/20140710 Lunion.pdf')}}" class="list-group-item">Le catamaran électro-solaire d'Aerofleet sera finalement mis à l'eau au printemps (l'union)</a>
+                <a href="{{asset('build/documents/20140706 Bateau intelligent.pdf.pdf')}}" class="list-group-item">Dans son chantier naval de Givet, Aerofleet prépare le bateau de demain (la libre Belgique)</a>
+                <a href="{{asset('build/documents/20140705 Vers lavenir.pdf')}}" class="list-group-item">Un catamaran révolutionnaire (et belge) en chantier à Givet (lavenir.net) </a>
+                <a href="http://www.rtbf.be/info/regions/detail_liege-aerofleet-construit-2-catamarans-ultra-sophistiques-en-france?id=8308093" class="list-group-item">Aerofleet construit 2 catamarans ultra sophistiqués en France (RTBF) </a>
+                <a href="{{asset('build/documents/20140625 Invitation ConfPresse AEROFLEET.pdf')}}" class="list-group-item">Invitation conférence de presse</a>
+                <a href="{{asset('build/documents/20140625 Invitation ConfPresse AEROFLEET.pdf')}} class="list-group-item"></a>
+                <a href="{{asset('build/documents/20140618 Ath302JUIN - 18-19 - TECHNO Pirard.pdf')}}" class="list-group-item">Aerofleet, high-tech sur les mers</a>
+                <a href="{{asset('build/documents/20140321 mw135 p30.pdf')}}" class="list-group-item">Multicoques Mag : nouvelle des chantiers </a>
+                <a href="{{asset('build/documents/20140318 Evenement Francorchamps_0.pdf')}}" class="list-group-item">Entrez au coeur de l'innovation avec les matériaux composites </a>
+                <a href="{{asset('build/documents/201403 Article Entreprises Aerofleet Mars 2014.pdf')}}" class="list-group-item">Aerofleet marche sur l'eau</a>
+                <a href="{{asset('build/documents/201310 Communiqu oct. 2013.pdf')}}" class="list-group-item">Aerofleet construit à Givet un catamaran électro-solaire pour réaliser le tour du monde</a>
+                <a href="{{asset('build/documents/20120723 interview Raphal Van Vlodorp 230712.pdf')}}" class="list-group-item">Interview Raphaël Van Vlodorp</a>
+                <a href="http://www.rtbf.be/info/regions/detail_liege-la-societe-aerofleet-devoile-un-projet-de-catamaran-electro-solaire?id=7790773" class="list-group-item">La société Aerofleet dévoile un projet de catamaran électro-solaire (RTBF) Website-Link-iconLa société Aerofleet dévoile un projet de catamaran électro-solaire (RTBF)</a>
+                <a href="{{asset('build/documents/20120619 Dossier de Presse_catamaran lectro-solaire-2.pdf')}}" class="list-group-item">Conférence de Presse bateau électro-solaire, CSL, Liege Science Park </a>
+                <a href="{{asset('build/documents/201206%20Aerofleet_bateau_invitation.pdf" ')}}" class="list-group-item">Invitation à une conférence de presse</a>
+                <a href="{{asset('build/documents/20090927 invitation inauguration 2009.pdf')}}" class="list-group-item">Inauguration du chantier naval d'Aerofleet France </a>
+                <a href="{{asset('build/documents/20141014 Aerofleet.pdf')}}" class="list-group-item">Aerofleet présente un catamaran autonome en énergies fossiles</a>
+                <a href="{{asset('build/documents/ThermolaquageFR.pdf')}}" class="list-group-item">Thermolaquage</a>
+                <br>
+                <a class="list-group-item disabled">NEDERLANDS</a>
+                <a href="{{asset('build/documents/')}}" class="list-group-item">Uitnodiging Persconferentie</a>
+                <br>
+                <a class="list-group-item disabled">ENGLISH</a>
+                <a href="{{asset('build/documents/20140822 64-67 SALONS NOUVEAUTS US.pdf')}}" class="list-group-item">Boat shows, all the new stuff 2014/2015 season</a>
+                <a href="{{asset('build/documents/20140321%20mw135%20p30.pdf')}}" class="list-group-item">Multicoques Mag : news from the builders</a>
+                <br>
+            </div>
         </div>
     </div>
 </section>

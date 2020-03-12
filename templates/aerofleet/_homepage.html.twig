@@ -12,6 +12,10 @@
         {{include ('aerofleet/activites.html.twig')}}
     {% endblock %}
 
+    {% block nautisme %}
+        {{ include('aerofleet/nautisme.html.twig') }}
+    {% endblock %}
+
     {% block piscine %}
         {{ include('aerofleet/piscine.html.twig') }}
     {% endblock %}
@@ -22,6 +26,10 @@
 
     {% block medias %}
         {{include ('aerofleet/medias.html.twig')}}
+    {% endblock %}
+
+    {% block galerie %}
+        {{include ('aerofleet/galerie.html.twig')}}
     {% endblock %}
 
     {% block contact %}

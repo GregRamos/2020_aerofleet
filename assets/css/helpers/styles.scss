@@ -11,14 +11,29 @@
     line-height: 1em;
 }
 
+hr{
+    background-color: $my-brown;
+}
+
+.border-my-theme{
+    border: 2.5px solid $my-brown;
+}
 
 html{
     scroll-behavior: smooth;
-    background: $my-white;
+    background-color: $my-white;
 
     header {
         margin-bottom: -1em;
         padding-bottom: 2em;
+
+        .england-flag{
+            position: fixed;
+            right: 0;
+            opacity: 0.4;
+            width: 5%;
+            margin: 25px;
+        }
         div{
             div{
                 h1{
@@ -63,6 +78,17 @@ html{
         .card{
             padding: 10px 10px;
             margin: 5px;
+            border: 2.5px solid $my-brown;
+        }
+    }
+        .images-galerie{
+            margin-bottom: 10px;
+        }
+
+    .nautisme{
+        hr
+        {
+            border-top: 1px solid $my-blue !important;
         }
     }
     footer{
