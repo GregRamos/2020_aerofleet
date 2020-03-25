@@ -1,0 +1,510 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="fr" target-language="en" datatype="plaintext" original="file.ext">
+    <header>
+      <tool tool-id="symfony" tool-name="Symfony"/>
+    </header>
+    <body>
+      <trans-unit id="j7gQXcQ" resname="Activités">
+        <source>Activités</source>
+        <target>Activities</target>
+      </trans-unit>
+      <trans-unit id="IJA9ADD" resname="Magasin">
+        <source>Magasin</source>
+        <target>Shop</target>
+      </trans-unit>
+      <trans-unit id="caVNJB7" resname="Medias">
+        <source>Medias</source>
+        <target>Medias</target>
+      </trans-unit>
+      <trans-unit id="eyeUeCH" resname="Galerie">
+        <source>Galerie</source>
+        <target>Gallery</target>
+      </trans-unit>
+      <trans-unit id="K1w9JnI" resname="Contact">
+        <source>Contact</source>
+        <target>Contact</target>
+      </trans-unit>
+      <trans-unit id="ZyFT62v" resname="A propos">
+        <source>A propos</source>
+        <target>About</target>
+      </trans-unit>
+      <trans-unit id="xUnlg8." resname="Aerofleet est spécialisée dans les composites high tech. Elle réalise aujourd'hui toutes sortes de pièces de grandes qualités techniques et pré-imprégnées sous vide et sous autoclave. Les matériaux composites offrent en effet des qualités techniques et environnementales en utilisant les pré-imprégnés.">
+        <source>Aerofleet est spécialisée dans les composites high tech. Elle réalise aujourd'hui toutes sortes de pièces de grandes qualités techniques et pré-imprégnées sous vide et sous autoclave. Les matériaux composites offrent en effet des qualités techniques et environnementales en utilisant les pré-imprégnés.</source>
+        <target>Aerofleet specializes in high tech composites. The Company produces all types of prepreg parts of high technical quality that are processed using both vacuum-bagging and autoclave techniques. The composite materials offer great technical and environmental qualities by using prepregs.</target>
+      </trans-unit>
+      <trans-unit id="AueplrW" resname="L'entreprise a réalisé, entre autres, les coupoles pour le VLT pour l'ES° sur le site du Cerra Paranal (Chili), les tuyères et les « fairings » pour l'Airbus A380, les protections d'armes pour la FN, des catamarans de 45 pied s et de 50 pieds, l'Aero 660, des bateaux pour les mesures hydrographiques. etc...">
+        <source>L'entreprise a réalisé, entre autres, les coupoles pour le VLT pour l'ES° sur le site du Cerra Paranal (Chili), les tuyères et les « fairings » pour l'Airbus A380, les protections d'armes pour la FN, des catamarans de 45 pied s et de 50 pieds, l'Aero 660, des bateaux pour les mesures hydrographiques. etc...</source>
+        <target>Among other interesting projects, Aerofleet designed the European Southern Observatory’s VLT protection domes located on top of Cerro Paranal (Chile), the nozzles and fairings for the Airbus A380, weapon protective cases for the FN Herstal, 45 and 50 feet catamarans, the Aero 660, boats for hydrographic measurements, etc.</target>
+      </trans-unit>
+      <trans-unit id="X6oTd6X" resname="Dans le secteur naval. après avoir construit le premier catamaran F28 belge, Raphaël van Vlodorp n'a cessé de développer de nouveaux produits tout en utilisant les meilleurs matériaux pour assurer une qualité optimale.">
+        <source>Dans le secteur naval. après avoir construit le premier catamaran F28 belge, Raphaël van Vlodorp n'a cessé de développer de nouveaux produits tout en utilisant les meilleurs matériaux pour assurer une qualité optimale.</source>
+        <target>In the shipbuilding industry. after building the first Belgian F28 catamaran, Raphaël van Vlodorp continued to develop new products using the best materials, thus ensuring the highest standards.</target>
+      </trans-unit>
+      <trans-unit id="VO7Lupm" resname="C'est ainsi qu'Aerofleet est devenu un chantier naval reconnu et peut proposer une large gamme allant du bateau à moteur au catamaran de 15 m.">
+        <source>C'est ainsi qu'Aerofleet est devenu un chantier naval reconnu et peut proposer une large gamme allant du bateau à moteur au catamaran de 15 m.</source>
+        <target>Through its technical achievements, Aerofleet quickly became an internationally recognized shipyard offering a wide range of products from motor boats to 49 feet catamarans. </target>
+      </trans-unit>
+      <trans-unit id="AJwGB10" resname="Aerofleet peut fournir les bateaux à tous les stades de finition, des pièces moulées aux bateaux prêts à naviguer pour constructeurs professionnels et/ou amateurs.">
+        <source>Aerofleet peut fournir les bateaux à tous les stades de finition, des pièces moulées aux bateaux prêts à naviguer pour constructeurs professionnels et/ou amateurs.</source>
+        <target>Aerofleet can provide boats at any finishing stage, from cast parts to “ready-to-sail” boats, to either professional boat builders and/or amateurs.</target>
+      </trans-unit>
+      <trans-unit id="uAlxMbN" resname="Brevet européen n° 2.189.369">
+        <source>Brevet européen n° 2.189.369</source>
+        <target> European patent n° 2.189.369 </target>
+      </trans-unit>
+      <trans-unit id="zpgkJm1" resname="La tension juste et équilibrée des haubans d'un voilier">
+        <source>La tension juste et équilibrée des haubans d'un voilier</source>
+        <target>The perfect fair and balanced tension</target>
+      </trans-unit>
+      <trans-unit id="5_XmUP_" resname="L'Aéro-Tens, prix sur demande.">
+        <source>L'Aéro-Tens, prix sur demande.</source>
+        <target>The Aero-Tens, ask for price</target>
+      </trans-unit>
+      <trans-unit id="q1Huj5y" resname="Le Tensiomètre AERO 37/2/LPT est un appareil de mesure de force de traction sur câble, autonome et spécialement conçu pour mesurer les efforts sur les câbles (haubanés, placés verticalement ou inclinés) utilisé dans la navigation.Les caractéristiques de 12 câbles spécifiques à la navigation ont été répertoriés dans une banque de données et introduits dans la mémoire du tensiomètre.">
+        <source>Le Tensiomètre AERO 37/2/LPT est un appareil de mesure de force de traction sur câble, autonome et spécialement conçu pour mesurer les efforts sur les câbles (haubanés, placés verticalement ou inclinés) utilisé dans la navigation.Les caractéristiques de 12 câbles spécifiques à la navigation ont été répertoriés dans une banque de données et introduits dans la mémoire du tensiomètre.</source>
+        <target>The Tensiometer AERO 37/2 / LPT Cable is a pulling force measuring device, independent and specifically designed to measure the forces on the cable (cable- stayed, placed vertically or inclined) used in navigation.  The characteristics of 12 specific cables to navigation have been listed in a database and inserted into the memory of the monitor.</target>
+      </trans-unit>
+      <trans-unit id="qA0JM4x" resname="Il est destiné à mesurer les efforts dans les câbles haubanés placés verticalement ou inclinés. Les spécificités de chaque câble pouvant être mesuré sont répertoriées dans une banque de données.">
+        <source>Il est destiné à mesurer les efforts dans les câbles haubanés placés verticalement ou inclinés. Les spécificités de chaque câble pouvant être mesuré sont répertoriées dans une banque de données.</source>
+        <target>It is designed to measure efforts in guyed wires placed vertically or inclined. </target>
+      </trans-unit>
+      <trans-unit id="gDgd8Kp" resname="La structure mécanique du Tensiomètre AERO 37/2/ LPT est réalisée en aluminium de qualité aéronautique, de manière à réduire son poids.">
+        <source>La structure mécanique du Tensiomètre AERO 37/2/ LPT est réalisée en aluminium de qualité aéronautique, de manière à réduire son poids.</source>
+        <target>The specificities of each cable that can be measured are listed in a database.</target>
+      </trans-unit>
+      <trans-unit id="UFoKY9x" resname="Dimensions du boitier : 550 x 380 x 220 mm">
+        <source>Dimensions du boitier : 550 x 380 x 220 mm</source>
+        <target>Box dimensions : 550 x 380 x 220 mm</target>
+      </trans-unit>
+      <trans-unit id="MD0Tife" resname="Poids dans son boitier : 6.5 kg">
+        <source>Poids dans son boitier : 6.5 kg</source>
+        <target>Weight in case : 6.5 kg</target>
+      </trans-unit>
+      <trans-unit id="wNvAPyB" resname="Poids net de l’appareil en ordre de marche : 2.2 kg Etendue de la mesure : de 0 à 3.000 daN">
+        <source>Poids net de l’appareil en ordre de marche : 2.2 kg Etendue de la mesure : de 0 à 3.000 daN</source>
+        <target>Net weight of the unit in working order : 2.2 kg Scope of measurement : from 0 to 3000 daN</target>
+      </trans-unit>
+      <trans-unit id="e.zVL7C" resname="Erreur maximale de la force appliquée : +/- 2 % Température d’entreposage : -10° à +60°C">
+        <source>Erreur maximale de la force appliquée : +/- 2 % Température d’entreposage : -10° à +60°C</source>
+        <target>Maximum error of the applied force : +/- 2% Storage Temperature : -10 ° to + 60 ° C</target>
+      </trans-unit>
+      <trans-unit id="oTZ2sVf" resname="Température d’utilisation : -5° à +50°C">
+        <source>Température d’utilisation : -5° à +50°C</source>
+        <target>Temperature range : -5 ° to + 50 ° C </target>
+      </trans-unit>
+      <trans-unit id=".EulCoZ" resname="Indice de protection : IP 62">
+        <source>Indice de protection : IP 62</source>
+        <target>Protection class : IP 62</target>
+      </trans-unit>
+      <trans-unit id="HUsNdwE" resname="Alimentation électrique : 3 piles Alcaline AA Autonomie : 125 heures">
+        <source>Alimentation électrique : 3 piles Alcaline AA Autonomie : 125 heures</source>
+        <target>Power supply : 3 AA Alkaline batteries. Battery life : 125 hours</target>
+      </trans-unit>
+      <trans-unit id="im4fHIw" resname="L'Aéro-bôme, prix sur demande.">
+        <source>L'Aéro-bôme, prix sur demande.</source>
+        <target>The Aero-bôme, ask for price.</target>
+      </trans-unit>
+      <trans-unit id="iuP.qg0" resname="Pour tout navigateur aussi aguerri soit-il, l’une des manœuvres les plus délicates et dangereuses reste sans conteste l’empannage.">
+        <source>Pour tout navigateur aussi aguerri soit-il, l’une des manœuvres les plus délicates et dangereuses reste sans conteste l’empannage.</source>
+        <target>For any sailor as good as he is, one of the most difficult and dangerous maneuvers is undoubtedly jibing.</target>
+      </trans-unit>
+      <trans-unit id="GgLLtpi" resname="L’AERO-BÔME permet de freiner la bôme lors de l’empannage. Il contrôle automatiquement l’ensemble des déplacements verticaux et horizontaux de votre bôme. Il ne coince pas la corde et ne l’abîme pas. Le cordage se serre et glisse autour du cylindre dans les rainures prévues à cet effet permettant de freiner la bôme.">
+        <source>L’AERO-BÔME permet de freiner la bôme lors de l’empannage. Il contrôle automatiquement l’ensemble des déplacements verticaux et horizontaux de votre bôme. Il ne coince pas la corde et ne l’abîme pas. Le cordage se serre et glisse autour du cylindre dans les rainures prévues à cet effet permettant de freiner la bôme.</source>
+        <target>The AERO-BÔME helps breaking the boom when jibing. It automatically controls all vertical and horizontal movements of your boom. It does not catch the rope and do not damage it. The rope tightens around the cylinder and slides into the grooves provided for this purpose allouing the boom to break.</target>
+      </trans-unit>
+      <trans-unit id="DypZTO2" resname="Toutes les manœuvres sont exécutables depuis le cockpit assurant ainsi la sécurité du navigateur.">
+        <source>Toutes les manœuvres sont exécutables depuis le cockpit assurant ainsi la sécurité du navigateur.</source>
+        <target>All operations can be executed from the cockpit and ensuring the security of the sailor.</target>
+      </trans-unit>
+      <trans-unit id="Yce_H0s" resname="Différents diamètres : Il peut tout autant intégrer un voilier de 8m ou 16m, convenir à une grand-voile de 40m2 comme à une grand-voile de 85m2.&#10;                Externe ou incorporé à la bôme.&#10;                Adaptable sur les gréements anciens et les nouveaux. Différentes finitions : carbone, loupe de noyer ou inox poli (316L).&#10;                Garantie : 10 ans.&#10;                La sécurité alliée de l’esthétisme : possibilité de graver le nom de votre bateau sur votre frein de bôme.">
+        <source>Différents diamètres : Il peut tout autant intégrer un voilier de 8m ou 16m, convenir à une grand-voile de 40m2 comme à une grand-voile de 85m2.
+                Externe ou incorporé à la bôme.
+                Adaptable sur les gréements anciens et les nouveaux. Différentes finitions : carbone, loupe de noyer ou inox poli (316L).
+                Garantie : 10 ans.
+                La sécurité alliée de l’esthétisme : possibilité de graver le nom de votre bateau sur votre frein de bôme.</source>
+        <target>Different diameters : It can equally incorporate a sailboat 26 ft or 52 ft , suitable for a mainsail 430 ft2 as a mainsail 915 ft2.
+                External or built into the boom.
+                Also adapted well on old and new rigging. Different finishes : carbon, burr walnut or polished stainless steel (316L) .
+                Warranty : 10 years.
+                Allied security of aesthetics : the possibility to engrave the name of your boat on your boom brake.</target>
+      </trans-unit>
+      <trans-unit id="TWkYZtN" resname="L’AERO-BÔME est au nautisme ce que le couteau suisse est à la coutellerie : une valeur sûre !">
+        <source>L’AERO-BÔME est au nautisme ce que le couteau suisse est à la coutellerie : une valeur sûre !</source>
+        <target>The AERO-BÔME is for yachting what the Swiss Army knife is for the cutlery !</target>
+      </trans-unit>
+      <trans-unit id="2MUPs8s" resname="Nautisme">
+        <source>Nautisme</source>
+        <target>Yachting</target>
+      </trans-unit>
+      <trans-unit id="z3CWCRc" resname="Notre devise est &quot;votre bateau comme vous le souhaitez&quot;">
+        <source>Notre devise est "votre bateau comme vous le souhaitez"</source>
+        <target>Our motto is « your boat as you wish »</target>
+      </trans-unit>
+      <trans-unit id="D2ajCX0" resname="Après avoir construit le premier catamaran F28 Belge, Raphaël Van Vlodorp n'a cessé de développer de nouveaux produits tout en utilisant les meilleurs matériaux pour assurer une qualité optimale.">
+        <source>Après avoir construit le premier catamaran F28 Belge, Raphaël Van Vlodorp n'a cessé de développer de nouveaux produits tout en utilisant les meilleurs matériaux pour assurer une qualité optimale.</source>
+        <target>after building the first Belgian F28 catamaran, Raphaël van Vlodorp continued to develop new products using the best materials, thus ensuring the highest standards.</target>
+      </trans-unit>
+      <trans-unit id="zjBUnag" resname="C'est ainsi que AEROFLEET est devenu un chantier Naval reconnu et peut ainsi vous proposer une large gamme qui va du bateau à moteur au Catamaran de 14m.">
+        <source>C'est ainsi que AEROFLEET est devenu un chantier Naval reconnu et peut ainsi vous proposer une large gamme qui va du bateau à moteur au Catamaran de 14m.</source>
+        <target>Through its technical achievements, Aerofleet quickly became an internationally recognized shipyard offering a wide range of products from motor boats to 49 feet catamarans. </target>
+      </trans-unit>
+      <trans-unit id="HaHcNXs" resname="AEROFLEET peut fournir les bateaux à tous les stades de finition des pièces moulées aux bateaux prêts à naviguer pour constructeurs professionnels et/ou amateurs">
+        <source>AEROFLEET peut fournir les bateaux à tous les stades de finition des pièces moulées aux bateaux prêts à naviguer pour constructeurs professionnels et/ou amateurs</source>
+        <target>Aerofleet can provide boats at any finishing stage, from cast parts to “ready-to-sail” boats, to either professional boat builders and/or amateurs.</target>
+      </trans-unit>
+      <trans-unit id="b6F971m" resname="Aero 50, version classique">
+        <source>Aero 50, version classique</source>
+        <target>Aero 50, classic version</target>
+      </trans-unit>
+      <trans-unit id="88794UP" resname="Librement et sans contrainte,">
+        <source>Librement et sans contrainte,</source>
+        <target>Free and untied,</target>
+      </trans-unit>
+      <trans-unit id="D6Coffv" resname="glissez parmi les vagues,">
+        <source>glissez parmi les vagues,</source>
+        <target>ride the waves,</target>
+      </trans-unit>
+      <trans-unit id="AgiEfcq" resname="jouez avec le vent.">
+        <source>jouez avec le vent.</source>
+        <target>play with the wind.</target>
+      </trans-unit>
+      <trans-unit id="owNRhmI" resname="Laissez-vous porter, laissez-vous choyer par votre catamaran qui saura vous mener là où les vents vous porteront…">
+        <source>Laissez-vous porter, laissez-vous choyer par votre catamaran qui saura vous mener là où les vents vous porteront…</source>
+        <target>Go with the flow, let yourself be carried away by your catamaran wherever the winds take you… </target>
+      </trans-unit>
+      <trans-unit id="ncfpDla" resname="Construction">
+        <source>Construction</source>
+        <target>Construction:</target>
+      </trans-unit>
+      <trans-unit id="6gv3eZU" resname="Ces dimensions et son poids sont idéaux pour sillonner les mers et océans du globe dans une optique très grande croisière, de plus, il est insubmersible.">
+        <source>Ces dimensions et son poids sont idéaux pour sillonner les mers et océans du globe dans une optique très grande croisière, de plus, il est insubmersible.</source>
+        <target>Its ideal dimensions and weight are perfect to sail the seas and oceans on a long journey across the globe. Besides, it is unsinkable!</target>
+      </trans-unit>
+      <trans-unit id="sENZ5si" resname="De part sa construction sandwich en pré-imprégné carbone, résine d’époxy sous vide, ce navire vous garanti solidité, robustesse et légèreté.">
+        <source>De part sa construction sandwich en pré-imprégné carbone, résine d’époxy sous vide, ce navire vous garanti solidité, robustesse et légèreté.</source>
+        <target>Thanks to its sandwich structure made of carbon prepreg and vacuum-bagged epoxy resin, this boat ensures strength, resistance and lightness. </target>
+      </trans-unit>
+      <trans-unit id="b5cnqJ5" resname="Il est résolument large pour conserver une meilleure stabilité par mer de travers, la répartition des poids est étudiée afin de contrôler les mouvements de tangage.">
+        <source>Il est résolument large pour conserver une meilleure stabilité par mer de travers, la répartition des poids est étudiée afin de contrôler les mouvements de tangage.</source>
+        <target>The large size was designed to maintain a better stability in beam seas whereas the weight distribution was specifically studied in order to control the pitch motion of the craft. </target>
+      </trans-unit>
+      <trans-unit id="MAPgLLB" resname="Ainsi, la maîtrise de la gîte facilite les manœuvres même dans les mers les plus formées.">
+        <source>Ainsi, la maîtrise de la gîte facilite les manœuvres même dans les mers les plus formées.</source>
+        <target>That way, the list control accommodates navigation even in the roughest seas. </target>
+      </trans-unit>
+      <trans-unit id="k1_JEos" resname="Caractéristiques et équipements">
+        <source>Caractéristiques et équipements</source>
+        <target>Features and equipments : </target>
+      </trans-unit>
+      <trans-unit id="YEoIHcy" resname="Longueur : 15,2m (50 pieds)">
+        <source>Longueur : 15,2m (50 pieds)</source>
+        <target>Length : 15,2m (50 pieds) </target>
+      </trans-unit>
+      <trans-unit id="HiYn.L6" resname="Largeur : 7,8 m">
+        <source>Largeur : 7,8 m</source>
+        <target>Width : 7,8 m</target>
+      </trans-unit>
+      <trans-unit id="x4QSwmQ" resname="Tirant d’eau : 1,35m">
+        <source>Tirant d’eau : 1,35m</source>
+        <target>Draught : 1,35mm</target>
+      </trans-unit>
+      <trans-unit id=".7ys54B" resname="Motorisation : 2x 75 CV Diesel">
+        <source>Motorisation : 2x 75 CV Diesel</source>
+        <target>Motor : 2x 75 CV Diesel</target>
+      </trans-unit>
+      <trans-unit id="xwc3roe" resname="Carburant : 2x200 L&lt;/p&gt;&lt;p&gt;Eau douce 200L + Déssalinisateur">
+        <source>Carburant : 2x200 L&lt;/p&gt;&lt;p&gt;Eau douce 200L + Déssalinisateur</source>
+        <target><![CDATA[Fuel : 2x200 L, Freshwater 200L + Desalinator]]></target>
+      </trans-unit>
+      <trans-unit id="1XwDMZe" resname="&gt;Hauteur du mât en alu : 17m&lt;/p&gt;&lt;p&gt;Poids lège : 7,8T">
+        <source>&gt;Hauteur du mât en alu : 17m&lt;/p&gt;&lt;p&gt;Poids lège : 7,8T</source>
+        <target><![CDATA[height of mast aluminium : 17m, Light weight : 7,8T]]></target>
+      </trans-unit>
+      <trans-unit id="OtdRfBs" resname="Hauteur sous barrot dans les flotteurs : 1,90m">
+        <source>Hauteur sous barrot dans les flotteurs : 1,90m</source>
+        <target>headroom : 1,90m</target>
+      </trans-unit>
+      <trans-unit id="iJV8xGf" resname="Surface Grande voile : 68,46 m²&lt;/p&gt;&lt;p&gt;Surface Génois : 28,56 m²">
+        <source>Surface Grande voile : 68,46 m²&lt;/p&gt;&lt;p&gt;Surface Génois : 28,56 m²</source>
+        <target><![CDATA[Great battened mainsail : 68,46 m²</p><p>Genoa : 28,56 m²]]></target>
+      </trans-unit>
+      <trans-unit id="BFMCDTm" resname="4 cabines doubles&lt;/p&gt;&lt;p&gt;2 salles de bains&lt;/p&gt;&lt;p&gt;Homologation catégorie A">
+        <source>4 cabines doubles&lt;/p&gt;&lt;p&gt;2 salles de bains&lt;/p&gt;&lt;p&gt;Homologation catégorie A</source>
+        <target><![CDATA[4 twin cabins and 2 bathroom</p><p>Certification : Class A]]></target>
+      </trans-unit>
+      <trans-unit id="jEK_buE" resname="Équipement des 4 cabines">
+        <source>Équipement des 4 cabines</source>
+        <target>Cabin's equipments</target>
+      </trans-unit>
+      <trans-unit id="_ZW0UA." resname="2 salles d’eau">
+        <source>2 salles d’eau</source>
+        <target>2 bathrooms</target>
+      </trans-unit>
+      <trans-unit id="fPd0Ayv" resname="carré">
+        <source>carré</source>
+        <target>carré</target>
+      </trans-unit>
+      <trans-unit id="J1PLFfH" resname="cuisine">
+        <source>cuisine</source>
+        <target>kitchen</target>
+      </trans-unit>
+      <trans-unit id="IvKiSfV" resname="Table à carte">
+        <source>Table à carte</source>
+        <target>Cards table</target>
+      </trans-unit>
+      <trans-unit id="G2foH5D" resname="Cockpit">
+        <source>Cockpit</source>
+        <target>Cockpit</target>
+      </trans-unit>
+      <trans-unit id="SCayZBd" resname="Poste de barre">
+        <source>Poste de barre</source>
+        <target>Helm</target>
+      </trans-unit>
+      <trans-unit id="6mOs57e" resname="AERO-50 Version Open">
+        <source>AERO-50 Version Open</source>
+        <target>Aero 50, open version</target>
+      </trans-unit>
+      <trans-unit id="RP916_V" resname="voici un catamaran de grande croisière attrayant, moderne et confortable avec une intégrité structurelle hors pair et capable de vous amener là où vous voulez confortablement, rapidement et en toute sécurité!">
+        <source>voici un catamaran de grande croisière attrayant, moderne et confortable avec une intégrité structurelle hors pair et capable de vous amener là où vous voulez confortablement, rapidement et en toute sécurité!</source>
+        <target>« AERO-50 Open Version » is an attractive, modern and comfortable long cruising catamaran whose outstanding structural integrity will take you wherever you want in a comfortable, fast and secure way.</target>
+      </trans-unit>
+      <trans-unit id="ub0PzIn" resname="Aero 50, version open">
+        <source>Aero 50, version open</source>
+        <target>Aero 50, open version</target>
+      </trans-unit>
+      <trans-unit id="wINym9I" resname="Construction:">
+        <source>Construction:</source>
+        <target>Construction:</target>
+      </trans-unit>
+      <trans-unit id="FaqzrzA" resname="Grâce à la grande expérience d'AEROFLEET en matière de matériaux composites, la coque est construite en pré-imprégné (carbone) et en résine d'époxy sous vide.">
+        <source>Grâce à la grande expérience d'AEROFLEET en matière de matériaux composites, la coque est construite en pré-imprégné (carbone) et en résine d'époxy sous vide.</source>
+        <target>Strongly inked, with an experience and expert assessment of 25 years in composite materials, the hull is made of prepregs (glass, carbon and Kevlar fibers) and vacuum bagged or out-of-autoclave epoxy resin (which prevents osmosis problems). </target>
+      </trans-unit>
+      <trans-unit id="R.TfPb1" resname="Caractéristiques et équipements:">
+        <source>Caractéristiques et équipements:</source>
+        <target>Features and equipments :</target>
+      </trans-unit>
+      <trans-unit id="ynHMFX." resname="Longueur : 15m (50 pieds)">
+        <source>Longueur : 15m (50 pieds)</source>
+        <target>Length : 15m (50 pieds) </target>
+      </trans-unit>
+      <trans-unit id="gVYQmFr" resname="Largeur : 8m">
+        <source>Largeur : 8m</source>
+        <target>Width : 8m</target>
+      </trans-unit>
+      <trans-unit id="K4u.7GY" resname="Tirant d'eau : 50 cm">
+        <source>Tirant d'eau : 50 cm</source>
+        <target>Draught : 50 cm</target>
+      </trans-unit>
+      <trans-unit id="ZwvsplI" resname="Nombre de couchettes : 6">
+        <source>Nombre de couchettes : 6</source>
+        <target>umber of berths : 6</target>
+      </trans-unit>
+      <trans-unit id=".kE1u8Q" resname="Motorisation : 2 x 40 ch Diesel / Electrique">
+        <source>Motorisation : 2 x 40 ch Diesel / Electrique</source>
+        <target>Motor : 2 x 40 ch Diesel / Electric</target>
+      </trans-unit>
+      <trans-unit id="KjvbRY3" resname="2 Dérives sabre">
+        <source>2 Dérives sabre</source>
+        <target>2 sabre boards</target>
+      </trans-unit>
+      <trans-unit id="C_DOgi_" resname="Hauteur du Mât: 20 m">
+        <source>Hauteur du Mât: 20 m</source>
+        <target>height of mast : 20 m</target>
+      </trans-unit>
+      <trans-unit id="LKkclsx" resname="Poids lège: 4,4T">
+        <source>Poids lège: 4,4T</source>
+        <target>Light weight : 4,4T</target>
+      </trans-unit>
+      <trans-unit id="WVDImyA" resname="Hauteur sous barrot: 1,90 m">
+        <source>Hauteur sous barrot: 1,90 m</source>
+        <target>headroom : 1,90 m</target>
+      </trans-unit>
+      <trans-unit id="YFM0ChO" resname="Grande voile lattée: 78 m²">
+        <source>Grande voile lattée: 78 m²</source>
+        <target>Great battened mainsail : 78 m²</target>
+      </trans-unit>
+      <trans-unit id="2lzLM9t" resname="Génois: 32 m²">
+        <source>Génois: 32 m²</source>
+        <target>Genoa : 32 m²</target>
+      </trans-unit>
+      <trans-unit id=".8j.Hcd" resname="3 Cabines double">
+        <source>3 Cabines double</source>
+        <target>3 twin cabins and 1 bathroom</target>
+      </trans-unit>
+      <trans-unit id="T7S5yhp" resname="1 Salle de bain">
+        <source>1 Salle de bain</source>
+        <target>1 Bathroom</target>
+      </trans-unit>
+      <trans-unit id="WPcT2qE" resname="Homologation: Catégore A">
+        <source>Homologation: Catégore A</source>
+        <target>Certification : Class A</target>
+      </trans-unit>
+      <trans-unit id="r.3spFX" resname="Utilisation professionnelle, sorties familiales, pêche, ski nautique ..., autant de plaisirs pour un seul bateau!">
+        <source>Utilisation professionnelle, sorties familiales, pêche, ski nautique ..., autant de plaisirs pour un seul bateau!</source>
+        <target>Professional use , family outings, fishing, water skiing ... so much fun for one boat !</target>
+      </trans-unit>
+      <trans-unit id="63Dna9s" resname="Carène conçue par AEROFLEET et l'aménagement du pont par Myriam Carbonnelle, Designer Industriel, prix Roi Baudouin du Design 1998.">
+        <source>Carène conçue par AEROFLEET et l'aménagement du pont par Myriam Carbonnelle, Designer Industriel, prix Roi Baudouin du Design 1998.</source>
+        <target>hull designed by AEROFLEET and land bridge by Myriam Carbonnelle , Industrial Designer, winner of King’s Baudouin Design’s Price in 1998.</target>
+      </trans-unit>
+      <trans-unit id="JUs502N" resname="La carène en forme d'ailes de mouettes, autorise aussi bien la navigation sur lac que sur mer. De plus, vous pouvez personnaliser votre bateau à travers différentes options: couleurs, coffres, sièges supplémentaires, équipement de pêche, équipement d'intervention, ski nautique,...">
+        <source>La carène en forme d'ailes de mouettes, autorise aussi bien la navigation sur lac que sur mer. De plus, vous pouvez personnaliser votre bateau à travers différentes options: couleurs, coffres, sièges supplémentaires, équipement de pêche, équipement d'intervention, ski nautique,...</source>
+        <target>The hull in the shape of gulls' wings, allows both lake and sea navigation. Moreover, you can personalize your boat through different options: colours, lockers, extra seats, fishing equipment, intervention equipment, water skiing,...</target>
+      </trans-unit>
+      <trans-unit id="NEMLzQQ" resname="Avec sa haute technologie, sa sécurité et son aspect multifonctions, l'AERO 660 est le partenaire idéal pour vos évasions.">
+        <source>Avec sa haute technologie, sa sécurité et son aspect multifonctions, l'AERO 660 est le partenaire idéal pour vos évasions.</source>
+        <target>With its high technology, its safety and multifunction aspect, AERO 660 is the ideal partner for your breakouts. It is also easily towable by car.</target>
+      </trans-unit>
+      <trans-unit id="uEtDOoi" resname="Longueur : 6,60 m (21'07&quot;)">
+        <source>Longueur : 6,60 m (21'07")</source>
+        <target>Length : 6,60 m (21'07") </target>
+      </trans-unit>
+      <trans-unit id="KM8lTwl" resname="Largeur : 2,48 m (8'02&quot;)">
+        <source>Largeur : 2,48 m (8'02")</source>
+        <target>Width : 2,48 m (8'02") </target>
+      </trans-unit>
+      <trans-unit id="30InAZA" resname="Capacité : 10 personnes">
+        <source>Capacité : 10 personnes</source>
+        <target>Capacity : 10 peoples</target>
+      </trans-unit>
+      <trans-unit id="riaF7_z" resname="Puissance maximum : 225HP">
+        <source>Puissance maximum : 225HP</source>
+        <target>Maximum power : 225HP</target>
+      </trans-unit>
+      <trans-unit id="yi9WTBt" resname="Poids sans moteur : 2425 pounds/900 kg">
+        <source>Poids sans moteur : 2425 pounds/900 kg</source>
+        <target>Weight without engine : 2425 pounds/900 kg</target>
+      </trans-unit>
+      <trans-unit id="qfLi6LB" resname="Vitesse maximum : 55 noeuds">
+        <source>Vitesse maximum : 55 noeuds</source>
+        <target>Maximum Speed : 55 noeuds</target>
+      </trans-unit>
+      <trans-unit id="WTs7sit" resname="Version In-board ou Out-board">
+        <source>Version In-board ou Out-board</source>
+        <target>Version In-board or Out-board</target>
+      </trans-unit>
+      <trans-unit id="E4O3GuV" resname="Tirant d'eau : 0,30 m">
+        <source>Tirant d'eau : 0,30 m</source>
+        <target>Draught : 0,30 m</target>
+      </trans-unit>
+      <trans-unit id="Shl76EK" resname="Aisément tractable par voiture">
+        <source>Aisément tractable par voiture</source>
+        <target>easily towable by car.</target>
+      </trans-unit>
+      <trans-unit id="fJNtmDO" resname="Grâce à la grande expérience d'AEROFLEET en matière de matériaux composites, la coque est construite en pré-imprégné (fibre de verre, de carbone et de kevlar) et en résine d'époxy sous vide ou sous autoclave (ce qui prévient les problèmes d'osmose).">
+        <source>Grâce à la grande expérience d'AEROFLEET en matière de matériaux composites, la coque est construite en pré-imprégné (fibre de verre, de carbone et de kevlar) et en résine d'époxy sous vide ou sous autoclave (ce qui prévient les problèmes d'osmose).</source>
+        <target>Strongly inked, with an experience and expert assessment of 25 years in composite materials, the hull is made of prepregs (glass, carbon and Kevlar fibers) and vacuum bagged or out-of-autoclave epoxy resin (which prevents osmosis problems).</target>
+      </trans-unit>
+      <trans-unit id="HrV6rMi" resname="Aeronautique">
+        <source>Aeronautique</source>
+        <target>Aeronautics</target>
+      </trans-unit>
+      <trans-unit id="_UpZ9WG" resname="Spatial">
+        <source>Spatial</source>
+        <target>Spatial</target>
+      </trans-unit>
+      <trans-unit id="OlTQavv" resname="Moulage">
+        <source>Moulage</source>
+        <target>Molding</target>
+      </trans-unit>
+      <trans-unit id="sN6_aVK" resname="Thermolaquage et Militaire">
+        <source>Thermolaquage et Militaire</source>
+        <target>Powder coating and Military</target>
+      </trans-unit>
+      <trans-unit id="FHWshWK" resname="Piscine">
+        <source>Piscine</source>
+        <target>Swimming pool</target>
+      </trans-unit>
+      <trans-unit id="5agzW.7" resname="Regardez nos vidéos sur Youtube">
+        <source>Regardez nos vidéos sur Youtube</source>
+        <target>Watch our videos on Youtube</target>
+      </trans-unit>
+      <trans-unit id="1rU8Dbj" resname="Télécharger la brochure ici">
+        <source>Télécharger la brochure ici</source>
+        <target>Download the book here</target>
+      </trans-unit>
+      <trans-unit id="GpTRMTR" resname="Articles de presses">
+        <source>Articles de presses</source>
+        <target>Press articles about Aerofleet</target>
+      </trans-unit>
+      <trans-unit id="8X6jCnp" resname="Suivez nous sur Twitter">
+        <source>Suivez nous sur Twitter</source>
+        <target>Follow us on Twitter</target>
+      </trans-unit>
+      <trans-unit id="q.u.wko" resname="Des idées et des formes,...">
+        <source>Des idées et des formes,...</source>
+        <target>Ideas and shapes,…</target>
+      </trans-unit>
+      <trans-unit id="MQO7Ang" resname="Ensemble, nous donnons forme à vos rêves. Votre piscine sera réalisée suivant l'orientation, la disposition et les dimensions du terrain. Du sur-mesure assurant à votre famille une convivialité et un plaisir sans cesse renouvelé.A l'intérieur ou à l'extérieur, nous assurons l'installation complète de votre piscine.">
+        <source>Ensemble, nous donnons forme à vos rêves. Votre piscine sera réalisée suivant l'orientation, la disposition et les dimensions du terrain. Du sur-mesure assurant à votre famille une convivialité et un plaisir sans cesse renouvelé.A l'intérieur ou à l'extérieur, nous assurons l'installation complète de votre piscine.</source>
+        <target>Together, we gives shape to your dreams, your pool is made according to the orientation, arrangement and dimensions of the lot. The measure made installation, either inside or outside, is complete.</target>
+      </trans-unit>
+      <trans-unit id="phI6gDY" resname="A l'intérieur ou à l'extérieur, nous assurons l'installation complète de votre piscine.">
+        <source>A l'intérieur ou à l'extérieur, nous assurons l'installation complète de votre piscine.</source>
+        <target>Inside or outside, From start to finish, we take care of the entire installation of your swimming pool.</target>
+      </trans-unit>
+      <trans-unit id="s_Wnj4n" resname="Investir à long terme, ...">
+        <source>Investir à long terme, ...</source>
+        <target>Long term invest, ...</target>
+      </trans-unit>
+      <trans-unit id="Ne8tAZG" resname="La qualité des matériaux (panneaux stratifiés fibres de verre/ polyester/nid d'abeilles) et les techniques de mise en oeuvre assurent à votre piscine une longue vie pour un coût plus que raisonnable.">
+        <source>La qualité des matériaux (panneaux stratifiés fibres de verre/ polyester/nid d'abeilles) et les techniques de mise en oeuvre assurent à votre piscine une longue vie pour un coût plus que raisonnable.</source>
+        <target>The pools have a high quality of materials (laminates fiberglass / polyester / honeycomb) and implementation technics that ensure your pool a long life for a very reasonable cost.</target>
+      </trans-unit>
+      <trans-unit id="VCTvWlm" resname="Une souplesse incomparable dans la réalisation, ...">
+        <source>Une souplesse incomparable dans la réalisation, ...</source>
+        <target>An unparalleled flexibility throughout the installation process,…</target>
+      </trans-unit>
+      <trans-unit id="_bdXSNF" resname="Notre système exclusif d'assemblage des panneaux augmente la cohésion de l'ensemble et, confère à votre piscine toutes les qualités d'une piscine monobloc. Avec un atout considérable en plus : les panneaux qui la constituent peuvent être assemblés en nos ateliers, ou directement chez vous, selon l'accessibilité de l'emplacement choisi.">
+        <source>Notre système exclusif d'assemblage des panneaux augmente la cohésion de l'ensemble et, confère à votre piscine toutes les qualités d'une piscine monobloc. Avec un atout considérable en plus : les panneaux qui la constituent peuvent être assemblés en nos ateliers, ou directement chez vous, selon l'accessibilité de l'emplacement choisi.</source>
+        <target>Our exclusive panel assembly system increases the general cohesion and gives your infrastructure all the qualities of a monobloc swimming pool with an additional major asset: all the panels can either be assembled in our workshops or directly at home depending on the accessibility of the chosen location. </target>
+      </trans-unit>
+      <trans-unit id="up1sjDT" resname="Une saison qui n'en finit pas, ...">
+        <source>Une saison qui n'en finit pas, ...</source>
+        <target>A never-ending season,…</target>
+      </trans-unit>
+      <trans-unit id="_currLg" resname="La structure stratifiée des panneaux, inspirée des technologies aéronautiques, assure à votre piscine une excellente isolation thermique. Ainsi, vous pourrez profiter de votre piscine de mai à octobre tout en limitant le coût du chauffage.">
+        <source>La structure stratifiée des panneaux, inspirée des technologies aéronautiques, assure à votre piscine une excellente isolation thermique. Ainsi, vous pourrez profiter de votre piscine de mai à octobre tout en limitant le coût du chauffage.</source>
+        <target>The stratified structure of the panels, directly inspired by aeronautical techniques, ensures the perfect thermal insulation of your swimming pool. That way, you will be able to enjoy your swimming pool from May to October with very limited heating costs. </target>
+      </trans-unit>
+      <trans-unit id="2SK5uy3" resname="Un petit plus qui change tout,...">
+        <source>Un petit plus qui change tout,...</source>
+        <target>A little extra that makes all the difference,… </target>
+      </trans-unit>
+      <trans-unit id="upiXHqG" resname="Balnéothérapie, escalier roman, escalier intérieur, éclairage halogène, éclairage par fibre optique, nage à contre-courant, intégration paysagère, ...">
+        <source>Balnéothérapie, escalier roman, escalier intérieur, éclairage halogène, éclairage par fibre optique, nage à contre-courant, intégration paysagère, ...</source>
+        <target>Herapy, roman steps, staircase, halogen lightning, fiber optic lightning, swimming against, landscape integration...</target>
+      </trans-unit>
+      <trans-unit id="5WUOiAI" resname="Nous vous proposons une gamme complète d'accessoires et de services. Il ne tient qu'à vous de faire de votre jardin un petit paradis.">
+        <source>Nous vous proposons une gamme complète d'accessoires et de services. Il ne tient qu'à vous de faire de votre jardin un petit paradis.</source>
+        <target>A full range of accessories and services that can transform a garden into a little paradise.</target>
+      </trans-unit>
+      <trans-unit id="PkuVp2S" resname="Spatial et Aéronautique">
+        <source>Spatial et Aéronautique</source>
+        <target>Spatial and Aeronautics</target>
+      </trans-unit>
+      <trans-unit id="q3k0iRY" resname="Aerofleet fabrique du matériel de haute technologie : des matériaux composites pour le domaine aéronautique (programme Airbus) mais aussi pour le domaine spatial avec notamment un dôme (coupole) de protection pour le télescope VLT.">
+        <source>Aerofleet produces high-tech equipment : composite materials for both the aeronautical (Airbus program) and spatial sectors with, notably, the construction of a protective dome (cupola) for the VLT telescope.</source>
+        <target>__Aerofleet fabrique du matériel de haute technologie : des matériaux composites pour le domaine aéronautique (programme Airbus) mais aussi pour le domaine spatial avec notamment un dôme (coupole) de protection pour le télescope VLT.</target>
+      </trans-unit>
+      <trans-unit id="_Fqa_N." resname="Moulage de pièces archéologiques (ossements, industries, sol), moulage anatomique et corporelle (immortalisation de grossesses, buste, mains, trophée) ainsi que divers moulages en matériaux composites (aéronautique).">
+        <source>Moulage de pièces archéologiques (ossements, industries, sol), moulage anatomique et corporelle (immortalisation de grossesses, buste, mains, trophée) ainsi que divers moulages en matériaux composites (aéronautique).</source>
+        <target>Casting of archaeological finds (bones, industrial, ground), anatomical and body castings (pregnant bellies, torsos, hands, awards) as well and numerous composite material castings (aeronautics).</target>
+      </trans-unit>
+      <trans-unit id="3Bwjicr" resname="Militaire">
+        <source>Militaire</source>
+        <target>Military</target>
+      </trans-unit>
+      <trans-unit id="YutVQ0N" resname="AEROFLEET, grâce à son savoir-faire et son expérience a également su se positionner dans le secteur militaire à travers les matériaux composites.">
+        <source>AEROFLEET, grâce à son savoir-faire et son expérience a également su se positionner dans le secteur militaire à travers les matériaux composites.</source>
+        <target>Thanks to its know-how and experience and through its composite materials, Aerofleet has become a reference Company in the military sector.</target>
+      </trans-unit>
+      <trans-unit id="wTpCS0l" resname="Thermolaquage">
+        <source>Thermolaquage</source>
+        <target>Powder coating</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
