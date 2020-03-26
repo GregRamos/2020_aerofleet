@@ -40,9 +40,9 @@
             </div>
         </div>
         <div class="col-sm-4">
-            <div>
+            <div data-toggle="collapse" data-target="#collapse_thermolaquage">
                 <p>{{"Thermolaquage"|trans}}</p>
-                <a href="#thermolaquage"><img class="img-activites rounded-circle border-my-theme" alt="Rcws fn defender" src="{{ asset('build/images/activites/miniature_thermolaquage.jpeg') }}" ></a>
+                <img class="img-activites rounded-circle border-my-theme" alt="Rcws fn defender" src="{{ asset('build/images/activites/miniature_thermolaquage.jpeg') }}" >
             </div>
         </div>
         <div class="col-sm-4">
@@ -51,5 +51,31 @@
                 <a href="#piscine"><img class="img-activites rounded-circle border-my-theme" alt="Rcws fn defender" src="{{ asset('build/images/activites/miniature_piscine.jpeg') }}" ></a>
             </div>
         </div>
+        <div id="collapse_thermolaquage" class="collapse text-center row">
+            <div class="col-12">
+                <h2>{{ "Thermolaquage" |trans }}</h2>
+            </div>
+            <div class="col-sm-7">
+                <img class="img-fluid border-my-theme" src="{{ asset('build/images/galerie/thermolaquage_01.jpeg') }}" alt="">
+            </div>
+            <div class="col-sm-5">
+                <p>{{ "Revêtement des métaux obtenu par poudrage électrostatique et cuisson à 190°C, de poudre de résine thermodurcissable (polyester ou époxy)." |trans }}</p>
+                <h3>Caractéristiques techniques :</h3>
+                <p>Excellent fini de surface dans un grand choix de teinte.</p>
+                <p>Revêtement d'une grande flexibilité et d'une grande adhérence</p>
+                <p>Excellente protection des pièces métalliques contre la corrosion</p>
+                <p>Résistance aux UV et aux variations de température</p>
+                <p>Les différents traitements, effectués par AEROFLEET avant le poudrage(dégraissage, chromation, ... ), assurent une adhérence optimale du revêtement.</p>
+                <h3>Applications</h3>
+                <p>Cette méthode s'applique aux pièces en aluminium, acier, inox ou galvanisé. Elle est idéalepour les profilés et châssis en aluminium, la tôlerie, les éléments de construction métallique, lavalorisation et la protection des pièces métalliques de votre maison (rampe d'escalier moderne,garde-fou de balcon, barrière et portique, anciens outils agricoles, ...)</p>
+                <p>Nous réalisons vos devis sur simple demande.</p>
+                <h3>Teintes :</h3>
+                <p>Toutes références RAL</p>
+                <p>Couleurs métallisées</p>
+                <p>Fini de surface mat, brillant, structuré</p>
+                <a href="{{asset('build/documents/ThermolaquageFR.pdf')}}" class="btn btn-primary">Fiche descriptive</a>
+            </div>
+        </div>
     </div>
+    <br><br>
 </section>
