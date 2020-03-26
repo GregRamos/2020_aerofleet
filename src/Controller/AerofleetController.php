@@ -11,10 +11,13 @@ class AerofleetController extends AbstractController
     /**
      * @Route("/", name="app_homepage")
      */
-    public function homepage()
+    public function homepage(Request $request)
     {
+        $locale = $request->getLocale();
+        var_dump($locale);
         return $this->render('aerofleet/_homepage.html.twig', [
             'controller_name' => 'AerofleetController',
+            'locale' => $locale,
         ]);
     }
 

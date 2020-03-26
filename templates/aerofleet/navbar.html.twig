@@ -1,8 +1,15 @@
 <header class="bg-navbar text-center">
     <div>
+        {% if locale == 'fr' %}
         <a href="{{ url('app_english') }}">
-            <img class="england-flag" src="{{asset('build/images/english_flag.ecd558ae.png')}}" alt="england flag">
+            <img class="england-flag" src="{{asset('build/images/english_flag.png')}}" alt="england flag">
         </a>
+        {% endif %}
+        {% if locale == 'en' %}
+            <a href="{{ url('app_english') }}">
+                <img class="england-flag" src="{{asset('build/images/french_flag.png')}}" alt="french flag">
+            </a>
+        {% endif %}
     </div>
     <div class="pt-4 pb-2">
         <div class="">

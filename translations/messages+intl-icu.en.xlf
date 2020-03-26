@@ -51,7 +51,7 @@
       </trans-unit>
       <trans-unit id="uAlxMbN" resname="Brevet européen n° 2.189.369">
         <source>Brevet européen n° 2.189.369</source>
-        <target> European patent n° 2.189.369 </target>
+        <target>European patent n° 2.189.369 </target>
       </trans-unit>
       <trans-unit id="zpgkJm1" resname="La tension juste et équilibrée des haubans d'un voilier">
         <source>La tension juste et équilibrée des haubans d'un voilier</source>
@@ -486,8 +486,8 @@
         <target>Spatial and Aeronautics</target>
       </trans-unit>
       <trans-unit id="q3k0iRY" resname="Aerofleet fabrique du matériel de haute technologie : des matériaux composites pour le domaine aéronautique (programme Airbus) mais aussi pour le domaine spatial avec notamment un dôme (coupole) de protection pour le télescope VLT.">
-        <source>Aerofleet produces high-tech equipment : composite materials for both the aeronautical (Airbus program) and spatial sectors with, notably, the construction of a protective dome (cupola) for the VLT telescope.</source>
-        <target>__Aerofleet fabrique du matériel de haute technologie : des matériaux composites pour le domaine aéronautique (programme Airbus) mais aussi pour le domaine spatial avec notamment un dôme (coupole) de protection pour le télescope VLT.</target>
+        <source>Aerofleet fabrique du matériel de haute technologie : des matériaux composites pour le domaine aéronautique (programme Airbus) mais aussi pour le domaine spatial avec notamment un dôme (coupole) de protection pour le télescope VLT.</source>
+        <target>Aerofleet produces high-tech equipment : composite materials for both the aeronautical (Airbus program) and spatial sectors with, notably, the construction of a protective dome (cupola) for the VLT telescope.</target>
       </trans-unit>
       <trans-unit id="_Fqa_N." resname="Moulage de pièces archéologiques (ossements, industries, sol), moulage anatomique et corporelle (immortalisation de grossesses, buste, mains, trophée) ainsi que divers moulages en matériaux composites (aéronautique).">
         <source>Moulage de pièces archéologiques (ossements, industries, sol), moulage anatomique et corporelle (immortalisation de grossesses, buste, mains, trophée) ainsi que divers moulages en matériaux composites (aéronautique).</source>
