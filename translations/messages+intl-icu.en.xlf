@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
-  <file source-language="fr" target-language="en" datatype="plaintext" original="file.ext">
+  <file source-language="en" target-language="en" datatype="plaintext" original="file.ext">
     <header>
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
@@ -215,11 +215,11 @@
       </trans-unit>
       <trans-unit id="xwc3roe" resname="Carburant : 2x200 L&lt;/p&gt;&lt;p&gt;Eau douce 200L + Déssalinisateur">
         <source>Carburant : 2x200 L&lt;/p&gt;&lt;p&gt;Eau douce 200L + Déssalinisateur</source>
-        <target><![CDATA[Fuel : 2x200 L, Freshwater 200L + Desalinator]]></target>
+        <target>Fuel : 2x200 L, Freshwater 200L + Desalinator</target>
       </trans-unit>
       <trans-unit id="1XwDMZe" resname="&gt;Hauteur du mât en alu : 17m&lt;/p&gt;&lt;p&gt;Poids lège : 7,8T">
         <source>&gt;Hauteur du mât en alu : 17m&lt;/p&gt;&lt;p&gt;Poids lège : 7,8T</source>
-        <target><![CDATA[height of mast aluminium : 17m, Light weight : 7,8T]]></target>
+        <target>height of mast aluminium : 17m, Light weight : 7,8T</target>
       </trans-unit>
       <trans-unit id="OtdRfBs" resname="Hauteur sous barrot dans les flotteurs : 1,90m">
         <source>Hauteur sous barrot dans les flotteurs : 1,90m</source>
@@ -504,6 +504,10 @@
       <trans-unit id="wTpCS0l" resname="Thermolaquage">
         <source>Thermolaquage</source>
         <target>Powder coating</target>
+      </trans-unit>
+      <trans-unit id="_pMJEXF" resname="Revêtement des métaux obtenu par poudrage électrostatique et cuisson à 190°C, de poudre de résine thermodurcissable (polyester ou époxy).">
+        <source>Revêtement des métaux obtenu par poudrage électrostatique et cuisson à 190°C, de poudre de résine thermodurcissable (polyester ou époxy).</source>
+        <target>Metal coating obtained by the electrostatic powdering and the heating at 190°C of thermosetting resin powder (polyester or epoxy).</target>
       </trans-unit>
     </body>
   </file>
