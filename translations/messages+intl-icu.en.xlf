@@ -509,6 +509,62 @@
         <source>Revêtement des métaux obtenu par poudrage électrostatique et cuisson à 190°C, de poudre de résine thermodurcissable (polyester ou époxy).</source>
         <target>Metal coating obtained by the electrostatic powdering and the heating at 190°C of thermosetting resin powder (polyester or epoxy).</target>
       </trans-unit>
+      <trans-unit id="ICh4E0B" resname="Excellent fini de surface dans un grand choix de teinte.">
+        <source>Excellent fini de surface dans un grand choix de teinte.</source>
+        <target>Excellent surface finish in a large variety of colors. </target>
+      </trans-unit>
+      <trans-unit id="pIeNV5u" resname="Revêtement d'une grande flexibilité et d'une grande adhérence">
+        <source>Revêtement d'une grande flexibilité et d'une grande adhérence</source>
+        <target>Very flexible and adhesive coating. </target>
+      </trans-unit>
+      <trans-unit id="srPKCaQ" resname="Excellente protection des pièces métalliques contre la corrosion">
+        <source>Excellente protection des pièces métalliques contre la corrosion</source>
+        <target>High level of protection of the metal parts against corrosion </target>
+      </trans-unit>
+      <trans-unit id="CebJLp1" resname="Résistance aux UV et aux variations de température">
+        <source>Résistance aux UV et aux variations de température</source>
+        <target>Highly resistant to UV light and temperature changes.</target>
+      </trans-unit>
+      <trans-unit id="5P7llXH" resname="Les différents traitements, effectués par AEROFLEET avant le poudrage(dégraissage, chromation, ... ), assurent une adhérence optimale du revêtement.">
+        <source>Les différents traitements, effectués par AEROFLEET avant le poudrage(dégraissage, chromation, ... ), assurent une adhérence optimale du revêtement.</source>
+        <target>The different processings, performed by AEROFLEET prior to powder coating (degreasing, chromating,…), ensure optimal adhesion of the coating. </target>
+      </trans-unit>
+      <trans-unit id="mOM7DzE" resname="Applications">
+        <source>Applications</source>
+        <target>Applications</target>
+      </trans-unit>
+      <trans-unit id="5ktqQEr" resname="Cette méthode s'applique aux pièces en aluminium, acier, inox ou galvanisé. Elle est idéalepour les profilés et châssis en aluminium, la tôlerie, les éléments de construction métallique, lavalorisation et la protection des pièces métalliques de votre maison (rampe d'escalier moderne,garde-fou de balcon, barrière et portique, anciens outils agricoles, ...)">
+        <source>Cette méthode s'applique aux pièces en aluminium, acier, inox ou galvanisé. Elle est idéalepour les profilés et châssis en aluminium, la tôlerie, les éléments de construction métallique, lavalorisation et la protection des pièces métalliques de votre maison (rampe d'escalier moderne,garde-fou de balcon, barrière et portique, anciens outils agricoles, ...)</source>
+        <target>This method applies to aluminum, steel, stainless steel or galvanized parts. It is ideally recommended for aluminum profiles and frames, sheet metal, metal building elements, development and protection of all the metal parts of your home (modern banister, balcony railing, fence and portico gate, old agricultural tools,…) </target>
+      </trans-unit>
+      <trans-unit id="Zl7xAeJ" resname="Nous réalisons vos devis sur simple demande.">
+        <source>Nous réalisons vos devis sur simple demande.</source>
+        <target>Quotation available upon request. </target>
+      </trans-unit>
+      <trans-unit id="MpiMeXs" resname="Teintes :">
+        <source>Teintes :</source>
+        <target>Shades :</target>
+      </trans-unit>
+      <trans-unit id="fiK8kqK" resname="Toutes références RAL">
+        <source>Toutes références RAL</source>
+        <target>Any reference from the RAL universal color chart</target>
+      </trans-unit>
+      <trans-unit id="fSZ1S80" resname="Couleurs métallisées">
+        <source>Couleurs métallisées</source>
+        <target>Metallic colors</target>
+      </trans-unit>
+      <trans-unit id="jhOU9ut" resname="Fini de surface mat, brillant, structuré">
+        <source>Fini de surface mat, brillant, structuré</source>
+        <target>Matte, glossy, structured surface finish</target>
+      </trans-unit>
+      <trans-unit id="MODL5Q9" resname="Fiche descriptive">
+        <source>Fiche descriptive</source>
+        <target>Fact sheet</target>
+      </trans-unit>
+      <trans-unit id="LtNdXq_" resname="Caractéristiques techniques :">
+        <source>Caractéristiques techniques :</source>
+        <target>Technical characteristics : </target>
+      </trans-unit>
     </body>
   </file>
 </xliff>
