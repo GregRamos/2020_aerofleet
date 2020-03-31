@@ -14,7 +14,6 @@ class AerofleetController extends AbstractController
     public function homepage(Request $request)
     {
         $locale = $request->getLocale();
-        var_dump($locale);
         return $this->render('aerofleet/_homepage.html.twig', [
             'controller_name' => 'AerofleetController',
             'locale' => $locale,
@@ -30,5 +29,19 @@ class AerofleetController extends AbstractController
             'controller_name' => 'AerofleetEnglishController',
         ]);
     }
+
+    /**
+     * @Route("/change_locale/{locale}", name="change_locale")
+     */
+    public function changeLocale($locale, Request $request)
+    {
+        // On stocke la langue dans la session
+        $request->getSession()->set('_locale', $locale);
+
+        // On revient sur la page précédente
+        return $this->redirect($request->headers->get('referer'));
+    }
+
+
 
 }

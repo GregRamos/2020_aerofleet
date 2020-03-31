@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
-  <file source-language="en" target-language="en" datatype="plaintext" original="file.ext">
+  <file source-language="fr" target-language="en" datatype="plaintext" original="file.ext">
     <header>
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
@@ -213,25 +213,9 @@
         <source>Motorisation : 2x 75 CV Diesel</source>
         <target>Motor : 2x 75 CV Diesel</target>
       </trans-unit>
-      <trans-unit id="xwc3roe" resname="Carburant : 2x200 L&lt;/p&gt;&lt;p&gt;Eau douce 200L + Déssalinisateur">
-        <source>Carburant : 2x200 L&lt;/p&gt;&lt;p&gt;Eau douce 200L + Déssalinisateur</source>
-        <target>Fuel : 2x200 L, Freshwater 200L + Desalinator</target>
-      </trans-unit>
-      <trans-unit id="1XwDMZe" resname="&gt;Hauteur du mât en alu : 17m&lt;/p&gt;&lt;p&gt;Poids lège : 7,8T">
-        <source>&gt;Hauteur du mât en alu : 17m&lt;/p&gt;&lt;p&gt;Poids lège : 7,8T</source>
-        <target>height of mast aluminium : 17m, Light weight : 7,8T</target>
-      </trans-unit>
       <trans-unit id="OtdRfBs" resname="Hauteur sous barrot dans les flotteurs : 1,90m">
         <source>Hauteur sous barrot dans les flotteurs : 1,90m</source>
         <target>headroom : 1,90m</target>
-      </trans-unit>
-      <trans-unit id="iJV8xGf" resname="Surface Grande voile : 68,46 m²&lt;/p&gt;&lt;p&gt;Surface Génois : 28,56 m²">
-        <source>Surface Grande voile : 68,46 m²&lt;/p&gt;&lt;p&gt;Surface Génois : 28,56 m²</source>
-        <target><![CDATA[Great battened mainsail : 68,46 m²</p><p>Genoa : 28,56 m²]]></target>
-      </trans-unit>
-      <trans-unit id="BFMCDTm" resname="4 cabines doubles&lt;/p&gt;&lt;p&gt;2 salles de bains&lt;/p&gt;&lt;p&gt;Homologation catégorie A">
-        <source>4 cabines doubles&lt;/p&gt;&lt;p&gt;2 salles de bains&lt;/p&gt;&lt;p&gt;Homologation catégorie A</source>
-        <target><![CDATA[4 twin cabins and 2 bathroom</p><p>Certification : Class A]]></target>
       </trans-unit>
       <trans-unit id="jEK_buE" resname="Équipement des 4 cabines">
         <source>Équipement des 4 cabines</source>
@@ -509,10 +493,6 @@
         <source>Revêtement des métaux obtenu par poudrage électrostatique et cuisson à 190°C, de poudre de résine thermodurcissable (polyester ou époxy).</source>
         <target>Metal coating obtained by the electrostatic powdering and the heating at 190°C of thermosetting resin powder (polyester or epoxy).</target>
       </trans-unit>
-      <trans-unit id="ICh4E0B" resname="Excellent fini de surface dans un grand choix de teinte.">
-        <source>Excellent fini de surface dans un grand choix de teinte.</source>
-        <target>Excellent surface finish in a large variety of colors. </target>
-      </trans-unit>
       <trans-unit id="pIeNV5u" resname="Revêtement d'une grande flexibilité et d'une grande adhérence">
         <source>Revêtement d'une grande flexibilité et d'une grande adhérence</source>
         <target>Very flexible and adhesive coating. </target>
@@ -532,10 +512,6 @@
       <trans-unit id="mOM7DzE" resname="Applications">
         <source>Applications</source>
         <target>Applications</target>
-      </trans-unit>
-      <trans-unit id="5ktqQEr" resname="Cette méthode s'applique aux pièces en aluminium, acier, inox ou galvanisé. Elle est idéalepour les profilés et châssis en aluminium, la tôlerie, les éléments de construction métallique, lavalorisation et la protection des pièces métalliques de votre maison (rampe d'escalier moderne,garde-fou de balcon, barrière et portique, anciens outils agricoles, ...)">
-        <source>Cette méthode s'applique aux pièces en aluminium, acier, inox ou galvanisé. Elle est idéalepour les profilés et châssis en aluminium, la tôlerie, les éléments de construction métallique, lavalorisation et la protection des pièces métalliques de votre maison (rampe d'escalier moderne,garde-fou de balcon, barrière et portique, anciens outils agricoles, ...)</source>
-        <target>This method applies to aluminum, steel, stainless steel or galvanized parts. It is ideally recommended for aluminum profiles and frames, sheet metal, metal building elements, development and protection of all the metal parts of your home (modern banister, balcony railing, fence and portico gate, old agricultural tools,…) </target>
       </trans-unit>
       <trans-unit id="Zl7xAeJ" resname="Nous réalisons vos devis sur simple demande.">
         <source>Nous réalisons vos devis sur simple demande.</source>
@@ -564,6 +540,90 @@
       <trans-unit id="LtNdXq_" resname="Caractéristiques techniques :">
         <source>Caractéristiques techniques :</source>
         <target>Technical characteristics : </target>
+      </trans-unit>
+      <trans-unit id="Gk8nQ9O" resname="L'entreprise a réalisé, entre autres, les coupoles pour le VLT pour l'ES° sur le site du Cerra Paranal (Chili), les tuyères et les « fairings » pour l'Airbus A380, les protections d'armes pour la FN, des catamarans de 45 pieds et de 50 pieds, l'Aero 660, des bateaux pour les mesures hydrographiques. etc...">
+        <source>L'entreprise a réalisé, entre autres, les coupoles pour le VLT pour l'ES° sur le site du Cerra Paranal (Chili), les tuyères et les « fairings » pour l'Airbus A380, les protections d'armes pour la FN, des catamarans de 45 pieds et de 50 pieds, l'Aero 660, des bateaux pour les mesures hydrographiques. etc...</source>
+        <target>Among other interesting projects, Aerofleet designed the European Southern Observatory’s VLT protection domes located on top of Cerro Paranal (Chile), the nozzles and fairings for the Airbus A380, weapon protective cases for the FN Herstal, 45 and 50 feet catamarans, the Aero 660, boats for hydrographic measurements, etc.</target>
+      </trans-unit>
+      <trans-unit id="5wFHdWu" resname="De par sa construction sandwich en pré-imprégné carbone, résine d’époxy sous vide, ce navire vous garantit solidité, robustesse et légèreté.">
+        <source>De par sa construction sandwich en pré-imprégné carbone, résine d’époxy sous vide, ce navire vous garantit solidité, robustesse et légèreté.</source>
+        <target>Thanks to its sandwich structure made of carbon prepreg and vacuum-bagged epoxy resin, this boat ensures strength, resistance and lightness. </target>
+      </trans-unit>
+      <trans-unit id="PFr9oJC" resname="Aerofleet donne forme à vos rêves… et vous aide à faire de votre espace balnéo un véritable petit paradis!">
+        <source>Aerofleet donne forme à vos rêves… et vous aide à faire de votre espace balnéo un véritable petit paradis!</source>
+        <target>Aerofleet brings your dreams to life…and turns your backyard into a spa haven.</target>
+      </trans-unit>
+      <trans-unit id="4W2nG.8" resname="Pourquoi nous choisir">
+        <source>Pourquoi nous choisir</source>
+        <target>Why choose us</target>
+      </trans-unit>
+      <trans-unit id="QJpSG_Z" resname="pour la réalisation de votre piscine?">
+        <source>pour la réalisation de votre piscine?</source>
+        <target>for your pool construction project?</target>
+      </trans-unit>
+      <trans-unit id="7q4R.Dh" resname="1. Une piscine sur-mesure réalisée suivant l’orientation, la disposition et les dimensions de votre terrain">
+        <source>1. Une piscine sur-mesure réalisée suivant l’orientation, la disposition et les dimensions de votre terrain</source>
+        <target>1. A custom-made pool that is specifically designed according to sun exposure, landscape, and the dimensions of your backyard</target>
+      </trans-unit>
+      <trans-unit id="TEetEMv" resname="2. Installation complète en intérieur, comme en extérieur">
+        <source>2. Installation complète en intérieur, comme en extérieur</source>
+        <target>2. Full indoor or outdoor installation </target>
+      </trans-unit>
+      <trans-unit id="4QOtiq6" resname="3. Usage de matériaux de grande qualité (panneaux stratifiés / fibre de verre / Epoxy / nid d’abeilles)">
+        <source>3. Usage de matériaux de grande qualité (panneaux stratifiés / fibre de verre / Epoxy / nid d’abeilles)</source>
+        <target>3. Use of high-end materials (laminated panels/fiberglass/Epoxy/honeycomb)</target>
+      </trans-unit>
+      <trans-unit id="1SAnCH6" resname="4. Une durée de vie inégalée… vieillissant mieux que les piscines monobloc en polyester dont on voit, parfois, avec le temps apparaître les renforts de la coque.">
+        <source>4. Une durée de vie inégalée… vieillissant mieux que les piscines monobloc en polyester dont on voit, parfois, avec le temps apparaître les renforts de la coque.</source>
+        <target>4. Unsurpassed life expectancy... our pools are way more resistant than polyester monobloc pools whose shell reinforcement may end up showing in the long run</target>
+      </trans-unit>
+      <trans-unit id="FowtOXS" resname="6. Système d’assemblage exclusif des panneaux pour une meilleure cohésion de l’ensemble">
+        <source>6. Système d’assemblage exclusif des panneaux pour une meilleure cohésion de l’ensemble</source>
+        <target>6. Exclusive panel assembly system to guarantee a better general cohesion </target>
+      </trans-unit>
+      <trans-unit id="zENpa5i" resname="7. Les panneaux peuvent être assemblés en atelier, ou chez vous, en fonction de l’accessibilité de l’emplacement choisi">
+        <source>7. Les panneaux peuvent être assemblés en atelier, ou chez vous, en fonction de l’accessibilité de l’emplacement choisi</source>
+        <target>7. All our panels can be assembled in our workshop or directly at your house depending on the accessibility of your chosen location</target>
+      </trans-unit>
+      <trans-unit id="8RaWTZB" resname="9. Des options sans limite : Balnéothérapie, escalier roman, escalier intérieur, éclairage halogène, éclairage par fibre optique, nage à contre-courant, intégration paysagère, ...">
+        <source>9. Des options sans limite : Balnéothérapie, escalier roman, escalier intérieur, éclairage halogène, éclairage par fibre optique, nage à contre-courant, intégration paysagère, ...</source>
+        <target>9. Countless additional options: balneotherapy, Roman steps, inground pool steps, halogen lighting, fiber optic lighting, counter-current swimming system, landscape integration…</target>
+      </trans-unit>
+      <trans-unit id="zkPJpmR" resname="10. Une gamme complète d’accessoires et de services">
+        <source>10. Une gamme complète d’accessoires et de services</source>
+        <target>10. A full range of accessories and services</target>
+      </trans-unit>
+      <trans-unit id="M3zvxh0" resname="Excellent fini de surface dans un grand choix de teintes.">
+        <source>Excellent fini de surface dans un grand choix de teintes.</source>
+        <target>Excellent surface finish in a large variety of colors. </target>
+      </trans-unit>
+      <trans-unit id="L0c8i3i" resname="Cette méthode s'applique aux pièces en aluminium, acier, inox ou galvanisé. Elle est idéale pour les profilés et châssis en aluminium, la tôlerie, les éléments de construction métallique, la valorisation et la protection des pièces métalliques de votre maison (rampe d'escalier moderne, garde-fou de balcon, barrière et portique, anciens outils agricoles, ...)">
+        <source>Cette méthode s'applique aux pièces en aluminium, acier, inox ou galvanisé. Elle est idéale pour les profilés et châssis en aluminium, la tôlerie, les éléments de construction métallique, la valorisation et la protection des pièces métalliques de votre maison (rampe d'escalier moderne, garde-fou de balcon, barrière et portique, anciens outils agricoles, ...)</source>
+        <target>This method applies to aluminum, steel, stainless steel or galvanized parts. It is ideally recommended for aluminum profiles and frames, sheet metal, metal building elements, development and protection of all the metal parts of your home (modern banister, balcony railing, fence and portico gate, old agricultural tools,…) </target>
+      </trans-unit>
+      <trans-unit id="93EKGAD" resname="Carburant : 2x200 L, Eau douce 200L + Déssalinisateur">
+        <source>Carburant : 2x200 L, Eau douce 200L + Déssalinisateur</source>
+        <target>Fuel : 2x200 L, Freshwater 200L + Desalinator</target>
+      </trans-unit>
+      <trans-unit id="bsvGU.D" resname="Hauteur du mât en alu : 17m Poids lège : 7,8T">
+        <source>Hauteur du mât en alu : 17m Poids lège : 7,8T</source>
+        <target>height of mast aluminium : 17m, Light weight : 7,8T</target>
+      </trans-unit>
+      <trans-unit id="LKUTtgF" resname="Surface Grande voile : 68,46 m², Surface Génois : 28,56 m²">
+        <source>Surface Grande voile : 68,46 m², Surface Génois : 28,56 m²</source>
+        <target>Great battened mainsail : 68,46 m²</target>
+      </trans-unit>
+      <trans-unit id="Xxff20v" resname="4 cabines doubles, 2 salles de bains, Homologation catégorie A">
+        <source>4 cabines doubles, 2 salles de bains, Homologation catégorie A</source>
+        <target>4 twin cabins and 2 bathroom, Certification : Class A</target>
+      </trans-unit>
+      <trans-unit id="wlrT.ez" resname="5. Pas de problème d’osmose, d’électricité statique : Aerofleet utilise de l’époxy pour la fabrication de ses piscines, et non du polyester, comme pour les coques traditionnelles, ce qui annule tout risque de microbullage et précipitations d’ions métalliques dans l’eau à cause de l’électricité statique (l’osmose)">
+        <source>5. Pas de problème d’osmose, d’électricité statique : Aerofleet utilise de l’époxy pour la fabrication de ses piscines, et non du polyester, comme pour les coques traditionnelles, ce qui annule tout risque de microbullage et précipitations d’ions métalliques dans l’eau à cause de l’électricité statique (l’osmose)</source>
+        <target>5. No osmosis or static electricity problems -> Unlike traditional pool shells that are usually made of polyester, Aerofleet uses epoxy in order to tackle any risk of  microbubbling or metal ions precipitations into the water as a result of static electricity (osmosis)</target>
+      </trans-unit>
+      <trans-unit id="tipClvI" resname="8. Excellente isolation thermique grâce à la structure stratifiée des panneaux, inspirée des technologies aéronautiques : vous pourrez profiter de votre piscine de mai à octobre tout en limitant votre facture de chauffage">
+        <source>8. Excellente isolation thermique grâce à la structure stratifiée des panneaux, inspirée des technologies aéronautiques : vous pourrez profiter de votre piscine de mai à octobre tout en limitant votre facture de chauffage</source>
+        <target>8. Excellent thermal insulation thanks to our laminated panels which are directly inspired by the latest aeronautical technologies -> you will be able to enjoy your pool from May to October while limiting your heating bill </target>
       </trans-unit>
     </body>
   </file>

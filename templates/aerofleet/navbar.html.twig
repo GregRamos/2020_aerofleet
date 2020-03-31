@@ -1,12 +1,12 @@
 <header class="bg-navbar text-center">
     <div>
         {% if locale == 'fr' %}
-        <a href="{{ url('app_english') }}">
+        <a href="{{ absolute_url('/?_locale=en') }}">
             <img class="england-flag" src="{{asset('build/images/english_flag.png')}}" alt="england flag">
         </a>
         {% endif %}
         {% if locale == 'en' %}
-            <a href="{{ url('app_english') }}">
+            <a href="{{ absolute_url('/?_locale=fr') }}">
                 <img class="england-flag" src="{{asset('build/images/french_flag.png')}}" alt="french flag">
             </a>
         {% endif %}
@@ -35,7 +35,7 @@
     <section class="text text-light">
         <h2 class="">{{'A propos'|trans}}</h2>
         <p>{{"Aerofleet est spécialisée dans les composites high tech. Elle réalise aujourd'hui toutes sortes de pièces de grandes qualités techniques et pré-imprégnées sous vide et sous autoclave. Les matériaux composites offrent en effet des qualités techniques et environnementales en utilisant les pré-imprégnés."|trans}}</p>
-        <p>{{"L'entreprise a réalisé, entre autres, les coupoles pour le VLT pour l'ES° sur le site du Cerra Paranal (Chili), les tuyères et les « fairings » pour l'Airbus A380, les protections d'armes pour la FN, des catamarans de 45 pied s et de 50 pieds, l'Aero 660, des bateaux pour les mesures hydrographiques. etc..."|trans}}</p>
+        <p>{{"L'entreprise a réalisé, entre autres, les coupoles pour le VLT pour l'ES° sur le site du Cerra Paranal (Chili), les tuyères et les « fairings » pour l'Airbus A380, les protections d'armes pour la FN, des catamarans de 45 pieds et de 50 pieds, l'Aero 660, des bateaux pour les mesures hydrographiques. etc..."|trans}}</p>
         <p>{{"Dans le secteur naval. après avoir construit le premier catamaran F28 belge, Raphaël van Vlodorp n'a cessé de développer de nouveaux produits tout en utilisant les meilleurs matériaux pour assurer une qualité optimale."|trans}}</p>
         <p>{{"C'est ainsi qu'Aerofleet est devenu un chantier naval reconnu et peut proposer une large gamme allant du bateau à moteur au catamaran de 15 m."|trans}}</p>
         <p>{{"Aerofleet peut fournir les bateaux à tous les stades de finition, des pièces moulées aux bateaux prêts à naviguer pour constructeurs professionnels et/ou amateurs."|trans}}</p>
