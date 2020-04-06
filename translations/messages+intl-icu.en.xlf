@@ -277,10 +277,6 @@
         <source>Construction:</source>
         <target>Construction:</target>
       </trans-unit>
-      <trans-unit id="FaqzrzA" resname="Grâce à la grande expérience d'AEROFLEET en matière de matériaux composites, la coque est construite en pré-imprégné (carbone) et en résine d'époxy sous vide.">
-        <source>Grâce à la grande expérience d'AEROFLEET en matière de matériaux composites, la coque est construite en pré-imprégné (carbone) et en résine d'époxy sous vide.</source>
-        <target>Strongly inked, with an experience and expert assessment of 25 years in composite materials, the hull is made of prepregs (glass, carbon and Kevlar fibers) and vacuum bagged or out-of-autoclave epoxy resin (which prevents osmosis problems). </target>
-      </trans-unit>
       <trans-unit id="R.TfPb1" resname="Caractéristiques et équipements:">
         <source>Caractéristiques et équipements:</source>
         <target>Features and equipments :</target>
@@ -573,6 +569,11 @@
         <source>Pourquoi nous choisir pour la réalisation de votre piscine?</source>
         <target>Why choose us for your pool construction project?</target>
       </trans-unit>
+      <trans-unit id="FaqzrzA" resname="Grâce à la grande expérience d'AEROFLEET en matière de matériaux composites, la coque est construite en pré-imprégné (carbone) et en résine d'époxy sous vide.">
+        <source>Grâce à la grande expérience d'AEROFLEET en matière de matériaux composites, la coque est construite en pré-imprégné (carbone) et en résine d'époxy sous vide.</source>
+        <target>Strongly inked, with an experience and expert assessment of 25 years in composite materials, the hull is made of prepregs (glass, carbon and Kevlar fibers) and vacuum bagged or out-of-autoclave epoxy resin (which prevents osmosis problems).</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>
+
