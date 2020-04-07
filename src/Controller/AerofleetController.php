@@ -21,16 +21,6 @@ class AerofleetController extends AbstractController
     }
 
     /**
-     * @Route("/english", name="app_english")
-     */
-    public function EnglishHomepage()
-    {
-        return $this->render('aerofleet/english/_homepage.html.twig', [
-            'controller_name' => 'AerofleetEnglishController',
-        ]);
-    }
-
-    /**
      * @Route("/change_locale/{locale}", name="change_locale")
      */
     public function changeLocale($locale, Request $request)
