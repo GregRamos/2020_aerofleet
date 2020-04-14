@@ -5,7 +5,7 @@
 {#        <div class="col-md-6">#}
 {#            <img src="{{ asset('build/images/nautisme/aerofleet_bateau_voilier.jpeg') }}" alt="Random Name" class="img-rounded img-fluid border-my-theme">#}
 {#        </div>#}
-        <div class="col-md-6">
+        <div class="col-sm-6">
             <div id="carouselNautisme2" class="col slide carousel-fade" data-ride="carousel">
                 <div class="carousel-inner border-my-theme">
                     <div class="carousel-item active">
@@ -20,7 +20,7 @@
                 </div>
             </div>
         </div>
-        <div class="col-md-6">
+        <div class="col-sm-6">
                 <div id="carouselNautisme" class="col slide carousel-fade" data-ride="carousel">
                     <div class="carousel-inner border-my-theme">
                         <div class="carousel-item active">
@@ -39,14 +39,72 @@
                 </div>
         </div>
     </div>
-    <br>
+    <br><br>
     <p><em>{{"Notre devise est \"votre bateau comme vous le souhaitez\""|trans}}</em></p>
     <p>{{"Après avoir construit le premier catamaran F28 Belge, Raphaël Van Vlodorp n'a cessé de développer de nouveaux produits tout en utilisant les meilleurs matériaux pour assurer une qualité optimale."|trans}}</p>
     <p>{{"C'est ainsi que AEROFLEET est devenu un chantier Naval reconnu et peut ainsi vous proposer une large gamme qui va du bateau à moteur au Catamaran de 14m."|trans}}</p>
+    <br>
+    <img src="{{asset('build/images/nautisme/aero_45.jpeg')}}" alt="" class="img-rounded img-fluid border-my-theme">
+    <br><br>
     <p>{{"AEROFLEET peut fournir les bateaux à tous les stades de finition des pièces moulées aux bateaux prêts à naviguer pour constructeurs professionnels et/ou amateurs"|trans}}</p>
     <br><br>
+
+    <div class="row">
+        <div class="col-md-6">
+            <div class="card">
+                <h3 class="card-title">Aero-Bôme</h3>
+                <img class="card-img-top" src="{{ asset('build/images/magasin/bome_aerofleet.jpeg') }}" alt="Card image">
+                <div class="card-body">
+                    <p class="card-text"> {{"Brevet européen n° 2.189.369"|trans}} </p>
+                    <button class="btn btn-primary" data-toggle="collapse" data-target="#collapse_aero_bome">Information</button>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-6">
+            <div class="card">
+                <h3 class="card-title">Aéro-Tens</h3>
+                <img class="card-img-top" src="{{ asset('build/images/magasin/aero_tens_aerofleet_blanc.png') }}" alt="Card image">
+                <div class="card-body">
+                    <p class="card-text">{{"La tension juste et équilibrée des haubans d'un voilier"|trans}} </p>
+                    <button class="btn btn-primary" data-toggle="collapse" data-target="#collapse_aero_tens">Information</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div id="collapse_aero_tens" class="collapse">
+            <h4 class="label label-success">{{"L'Aéro-Tens, prix sur demande."|trans}}</h4>
+            <p>{{"Le Tensiomètre AERO 37/2/LPT est un appareil de mesure de force de traction sur câble, autonome et spécialement conçu pour mesurer les efforts sur les câbles (haubanés, placés verticalement ou inclinés) utilisé dans la navigation.Les caractéristiques de 12 câbles spécifiques à la navigation ont été répertoriés dans une banque de données et introduits dans la mémoire du tensiomètre."|trans}}</p>
+            <p>{{"Il est destiné à mesurer les efforts dans les câbles haubanés placés verticalement ou inclinés. Les spécificités de chaque câble pouvant être mesuré sont répertoriées dans une banque de données."|trans}}</p>
+            <p>{{"La structure mécanique du Tensiomètre AERO 37/2/ LPT est réalisée en aluminium de qualité aéronautique, de manière à réduire son poids."|trans}}</p>
+            <p>{{"Dimensions du boitier : 550 x 380 x 220 mm"|trans}}</p>
+            <p>{{"Poids dans son boitier : 6.5 kg"|trans}}</p>
+            <p>{{"Poids net de l’appareil en ordre de marche : 2.2 kg Etendue de la mesure : de 0 à 3.000 daN"|trans}}</p>
+            <p>{{"Erreur maximale de la force appliquée : +/- 2 % Température d’entreposage : -10° à +60°C"|trans}}</p>
+            <p>{{"Température d’utilisation : -5° à +50°C"|trans}}</p>
+            <p>{{"Indice de protection : IP 62"|trans}}</p>
+            <p>{{"Alimentation électrique : 3 piles Alcaline AA Autonomie : 125 heures"|trans}}</p>
+        </div>
+        <div id="collapse_aero_bome" class="collapse">
+            <p class="label label-success">{{"L'Aéro-bôme, prix sur demande."|trans}}</p>
+            <p>{{"Pour tout navigateur aussi aguerri soit-il, l’une des manœuvres les plus délicates et dangereuses reste sans conteste l’empannage."|trans}}</p>
+            <p>{{"L’AERO-BÔME permet de freiner la bôme lors de l’empannage. Il contrôle automatiquement l’ensemble des déplacements verticaux et horizontaux de votre bôme. Il ne coince pas la corde et ne l’abîme pas. Le cordage se serre et glisse autour du cylindre dans les rainures prévues à cet effet permettant de freiner la bôme."|trans}}</p>
+            <p>{{"Toutes les manœuvres sont exécutables depuis le cockpit assurant ainsi la sécurité du navigateur."|trans}}</p>
+            <p>{{"Différents diamètres : Il peut tout autant intégrer un voilier de 8m ou 16m, convenir à une grand-voile de 40m2 comme à une grand-voile de 85m2.
+                Externe ou incorporé à la bôme.
+                Adaptable sur les gréements anciens et les nouveaux. Différentes finitions : carbone, loupe de noyer ou inox poli (316L).
+                Garantie : 10 ans.
+                La sécurité alliée de l’esthétisme : possibilité de graver le nom de votre bateau sur votre frein de bôme."|trans}}
+            </p>
+            <p>{{"L’AERO-BÔME est au nautisme ce que le couteau suisse est à la coutellerie : une valeur sûre !"|trans}}</p>
+        </div>
+    </div>
+    <br>
+
     <div class="row">
         <div class="col-sm-4">
+            <br>
             <h3 id="boa03">{{"Aero 50, version classique"|trans}}</h3>
             <br>
             <img src="{{ asset('build/images/galerie/nautisme_11.jpg') }}" alt="Random Name" class="img-rounded img-fluid border-my-theme">
@@ -98,8 +156,7 @@
 
         <div class="row">
             <div class="col-sm-6 text-left">
-                <br><br><br><br>
-                <p>{{"AERO-50 Version Open"|trans}}</p>
+                <br><br><br><br><br>
                 <p>{{"voici un catamaran de grande croisière attrayant, moderne et confortable avec une intégrité structurelle hors pair et capable de vous amener là où vous voulez confortablement, rapidement et en toute sécurité!"|trans}}</p>
                 <br>
                 <div class="text-center">
@@ -111,6 +168,7 @@
 
 
             <div class="col-sm-4">
+                <br><br><br>
                 <h3 id="boa05">{{"Aero 50, version open"|trans}}</h3>
                 <br>
                 <img src="{{ asset('build/images/galerie/nautisme_01.jpeg') }}" alt="Random Name" class="img-rounded img-fluid border-my-theme">
@@ -143,6 +201,7 @@
 
         <div class="row">
             <div class="col-sm-4">
+                <br><br>
                 <h3>Aero 660</h3>
                 <br>
                 <div id="carouselNautisme2" class="col slide carousel-fade" data-ride="carousel">

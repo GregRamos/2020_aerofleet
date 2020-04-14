@@ -1,4 +1,4 @@
-<header class="bg-navbar text-center">
+<header class="bg-navbar text-center" id="top">
     <div>
         {% if locale == 'fr' %}
         <a href="{{ absolute_url('/?_locale=en') }}">
@@ -11,6 +11,13 @@
             </a>
         {% endif %}
     </div>
+
+    <div class="go-up">
+        <a href="#top">
+            <img class="" src="{{asset('build/images/apropos/arrow.png')}}" alt="french flag">
+        </a>
+    </div>
+
     <div class="pt-4 pb-2">
         <div class="">
             <h1 class="ml15">
@@ -19,20 +26,26 @@
             </h1>
         </div>
     </div>
-
     <hr>
 
+{#    <div class="nav-lat text-right">#}
+{#        <a href="#nautisme">{{"Nautisme"|trans}}</a>#}
+{#        <a href="#piscine">{{"Piscine"|trans}}</a>#}
+{#        <a href="#spatial">{{"Spatial"|trans}}</a>#}
+{#        <a href="#aeronautique">{{"Aéronautique"|trans}}</a>#}
+{#        <a href="#moulage">{{"Moulage"|trans}}</a>#}
+{#        <a href="#thermolaquage">{{"Thermolaquage"|trans}}</a>#}
+{#        <a href="#militaire">{{"Militaire"|trans}}</a>#}
+
+{#    </div>#}
     <nav>
         <a class="col-3" href="#activites">{{"Activités"|trans}}</a>
-        <a class="col-3" href="#magasin">{{"Magasin"|trans}}</a>
         <a class="col-3"  href="#medias">{{"Medias"|trans}}</a>
-        <a class="col-3"  href="#galerie">{{"Galerie"|trans}}</a>
         <a class="col-3"  href="#contact">{{"Contact"|trans}}</a>
     </nav>
-
     <hr>
 
-    <section class="text text-light">
+    <section id="apropos" class="text text-light text-center">
         <h2 class="">{{'A propos'|trans}}</h2>
         <p>{{"Aerofleet est spécialisée dans les composites high tech. Elle réalise aujourd'hui toutes sortes de pièces de grandes qualités techniques et pré-imprégnées sous vide et sous autoclave. Les matériaux composites offrent en effet des qualités techniques et environnementales en utilisant les pré-imprégnés."|trans}}</p>
         <p>{{"L'entreprise a réalisé, entre autres, les coupoles pour le VLT pour l'ES° sur le site du Cerra Paranal (Chili), les tuyères et les « fairings » pour l'Airbus A380, les protections d'armes pour la FN, des catamarans de 45 pieds et de 50 pieds, l'Aero 660, des bateaux pour les mesures hydrographiques. etc..."|trans}}</p>

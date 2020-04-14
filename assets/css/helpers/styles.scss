@@ -27,6 +27,14 @@ html{
         margin-bottom: -1em;
         padding-bottom: 2em;
 
+        .go-up{
+            position: fixed;
+            left: 0;
+            opacity: 0.4;
+            width: 5%;
+            margin: 25px;
+            max-width: 10%;
+        }
         .england-flag, .french-flag{
             position: fixed;
             right: 0;
@@ -34,27 +42,22 @@ html{
             width: 5%;
             margin: 25px;
         }
-        div{
-            div{
-                h1{
-                    a{
-                        text-decoration: none !important;
-                        font-size: 1.2em !important; /* 40px/16=2.5em */
-                        color: $my-blue;
-                        &:hover{ color: $my-white !important;}
-                        &:active{ color: $my-white !important;}
-                    }
-
-                }
+        .nav-lat{
+            position: fixed;
+            right: 0;
+            opacity: 0.9;
+            margin: 25px;
+            color: #6f42c1 !important;
+            a{
+                display: block;
             }
         }
-
         hr
         {
             border-top: 1px solid $my-blue;
         }
 
-        nav{
+        nav, .nav-lat{
             a{
                 text-decoration: none !important;
                 color: $my-blue;
@@ -123,4 +126,14 @@ h6{
 
 .navbar-brand{
     color: #1b9448;
+}
+
+.actives{
+    a{
+        text-decoration: none !important;
+        color: $my-blue;
+        font-size: 1.2em;
+        &:hover{ color: $my-brown !important;}
+        &:active{ color: $my-brown !important;}
+    }
 }

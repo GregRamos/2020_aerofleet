@@ -20,8 +20,20 @@
         {{ include('aerofleet/piscine.html.twig') }}
     {% endblock %}
 
-    {% block magasin %}
-        {{include ('aerofleet/magasin.html.twig')}}
+    {% block spatial_aeronautique %}
+        {{ include('aerofleet/spatial-aeronautique.html.twig') }}
+    {% endblock %}
+
+    {% block moulage %}
+        {{ include('aerofleet/moulage.html.twig') }}
+    {% endblock %}
+
+    {% block militaire %}
+        {{ include('aerofleet/militaire.html.twig') }}
+    {% endblock %}
+
+    {% block thermolaquage %}
+        {{ include('aerofleet/thermolaquage.html.twig') }}
     {% endblock %}
 
     {% block medias %}

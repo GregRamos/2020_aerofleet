@@ -1,15 +1,15 @@
 <section class="text-center bg-light" id="piscine">
     <h2>{{"Piscine"|trans}}</h2>
     <div class="row">
-        <div class="col img-fluid">
-            <img src="{{ asset('build/images/piscine/Piscine recadree.8893a43f.jpg') }}" class="img-r border-my-theme" alt="piscine">
-        </div>
-        <div class="col text">
+        <div class="col-md-6 text">
             <br><br>
             <h3>{{"Aerofleet donne forme à vos rêves… et vous aide à faire de votre espace balnéo un véritable petit paradis!"|trans}}</h3>
             <br><br>
             <h4>{{ "Pourquoi nous choisir pour la réalisation de votre piscine?"|trans}}</h4>
             <br>
+        </div>
+        <div class="col-md-6">
+            <img src="{{ asset('build/images/piscine/Piscine recadree.8893a43f.jpg') }}" class="img-r border-my-theme img-fluid" alt="piscine">
         </div>
     </div>
     <br>
@@ -35,7 +35,7 @@
     <br>
 
     <div class="row">
-        <div id="carouselPiscine" class="col slide carousel-fade" data-ride="carousel">
+        <div id="carouselPiscine" class="text-center slide carousel-fade" data-ride="carousel">
             <div class="carousel-inner border-my-theme">
                 <div class="carousel-item active">
                     <img class="d-block w-100" src="{{asset('build/images/piscine/piscine_01.jpeg')}}" alt="piscine extérieure">
