@@ -467,7 +467,7 @@
       </trans-unit>
       <trans-unit id="tipClvI" resname="8. Excellente isolation thermique grâce à la structure stratifiée des panneaux, inspirée des technologies aéronautiques : vous pourrez profiter de votre piscine de mai à octobre tout en limitant votre facture de chauffage">
         <source>8. Excellente isolation thermique grâce à la structure stratifiée des panneaux, inspirée des technologies aéronautiques : vous pourrez profiter de votre piscine de mai à octobre tout en limitant votre facture de chauffage</source>
-        <target><![CDATA[8. Excellent thermal insulation thanks to our laminated panels which are directly inspired by the latest aeronautical technologies -> you will be able to enjoy your pool from May to October while limiting your heating bill ]]></target>
+        <target>8. Excellent thermal insulation thanks to our laminated panels which are directly inspired by the latest aeronautical technologies -> you will be able to enjoy your pool from May to October while limiting your heating bill></target>
       </trans-unit>
       <trans-unit id="8RaWTZB" resname="9. Des options sans limite : Balnéothérapie, escalier roman, escalier intérieur, éclairage halogène, éclairage par fibre optique, nage à contre-courant, intégration paysagère, ...">
         <source>9. Des options sans limite : Balnéothérapie, escalier roman, escalier intérieur, éclairage halogène, éclairage par fibre optique, nage à contre-courant, intégration paysagère, ...</source>
@@ -576,4 +576,3 @@
     </body>
   </file>
 </xliff>
-

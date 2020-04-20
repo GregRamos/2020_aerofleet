@@ -16,6 +16,10 @@
         {{ include('aerofleet/nautisme.html.twig') }}
     {% endblock %}
 
+    {% block thermolaquage %}
+        {{ include('aerofleet/thermolaquage.html.twig') }}
+    {% endblock %}
+
     {% block piscine %}
         {{ include('aerofleet/piscine.html.twig') }}
     {% endblock %}
@@ -24,25 +28,17 @@
         {{ include('aerofleet/spatial-aeronautique.html.twig') }}
     {% endblock %}
 
-    {% block moulage %}
-        {{ include('aerofleet/moulage.html.twig') }}
-    {% endblock %}
-
     {% block militaire %}
         {{ include('aerofleet/militaire.html.twig') }}
-    {% endblock %}
-
-    {% block thermolaquage %}
-        {{ include('aerofleet/thermolaquage.html.twig') }}
     {% endblock %}
 
     {% block medias %}
         {{include ('aerofleet/medias.html.twig')}}
     {% endblock %}
 
-    {% block galerie %}
-        {{include ('aerofleet/galerie.html.twig')}}
-    {% endblock %}
+{#    {% block galerie %}#}
+{#        {{include ('aerofleet/galerie.html.twig')}}#}
+{#    {% endblock %}#}
 
     {% block contact %}
         {{include ('aerofleet/contact.html.twig')}}
