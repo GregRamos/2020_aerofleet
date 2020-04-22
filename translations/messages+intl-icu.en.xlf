@@ -6,7 +6,7 @@
     </header>
     <body>
       <trans-unit id="j7gQXcQ" resname="Activités">
-        <source>Nos activités</source>
+        <source>Activités</source>
         <target>Our activities</target>
       </trans-unit>
       <trans-unit id="IJA9ADD" resname="Magasin">
@@ -576,6 +576,10 @@
       <trans-unit id="Tfsd49m" resname="Nos activités">
         <source>Nos activités</source>
         <target>Our activities</target>
+      </trans-unit>
+      <trans-unit id="pmPx6m8" resname="Exclusivités nautisme">
+        <source>Exclusivités nautisme</source>
+        <target>Nautical Exclusivities</target>
       </trans-unit>
     </body>
   </file>
