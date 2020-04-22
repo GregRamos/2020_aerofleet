@@ -6,8 +6,8 @@
     </header>
     <body>
       <trans-unit id="j7gQXcQ" resname="Activités">
-        <source>Activités</source>
-        <target>Activities</target>
+        <source>Nos activités</source>
+        <target>Our activities</target>
       </trans-unit>
       <trans-unit id="IJA9ADD" resname="Magasin">
         <source>Magasin</source>
@@ -467,7 +467,7 @@
       </trans-unit>
       <trans-unit id="tipClvI" resname="8. Excellente isolation thermique grâce à la structure stratifiée des panneaux, inspirée des technologies aéronautiques : vous pourrez profiter de votre piscine de mai à octobre tout en limitant votre facture de chauffage">
         <source>8. Excellente isolation thermique grâce à la structure stratifiée des panneaux, inspirée des technologies aéronautiques : vous pourrez profiter de votre piscine de mai à octobre tout en limitant votre facture de chauffage</source>
-        <target>8. Excellent thermal insulation thanks to our laminated panels which are directly inspired by the latest aeronautical technologies -> you will be able to enjoy your pool from May to October while limiting your heating bill></target>
+        <target><![CDATA[8. Excellent thermal insulation thanks to our laminated panels which are directly inspired by the latest aeronautical technologies -> you will be able to enjoy your pool from May to October while limiting your heating bill>]]></target>
       </trans-unit>
       <trans-unit id="8RaWTZB" resname="9. Des options sans limite : Balnéothérapie, escalier roman, escalier intérieur, éclairage halogène, éclairage par fibre optique, nage à contre-courant, intégration paysagère, ...">
         <source>9. Des options sans limite : Balnéothérapie, escalier roman, escalier intérieur, éclairage halogène, éclairage par fibre optique, nage à contre-courant, intégration paysagère, ...</source>
@@ -572,6 +572,10 @@
       <trans-unit id="FaqzrzA" resname="Grâce à la grande expérience d'AEROFLEET en matière de matériaux composites, la coque est construite en pré-imprégné (carbone) et en résine d'époxy sous vide.">
         <source>Grâce à la grande expérience d'AEROFLEET en matière de matériaux composites, la coque est construite en pré-imprégné (carbone) et en résine d'époxy sous vide.</source>
         <target>Strongly inked, with an experience and expert assessment of 25 years in composite materials, the hull is made of prepregs (glass, carbon and Kevlar fibers) and vacuum bagged or out-of-autoclave epoxy resin (which prevents osmosis problems).</target>
+      </trans-unit>
+      <trans-unit id="Tfsd49m" resname="Nos activités">
+        <source>Nos activités</source>
+        <target>Our activities</target>
       </trans-unit>
     </body>
   </file>

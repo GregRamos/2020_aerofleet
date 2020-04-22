@@ -19,11 +19,18 @@ hr{
     border: 2.5px solid $my-brown;
 }
 
+.bg-aerofleet{
+    background-color: #158CC2;
+}
+
 html{
     scroll-behavior: smooth;
     background-color: $my-white;
 
     header {
+        h2{
+            color: $my-white;
+        }
         margin-bottom: -1em;
         padding-bottom: 2em;
 
@@ -68,11 +75,10 @@ html{
         }
 
         section{
-            h2{
-                color: $my-white;
-            }
             p{
                 color: $my-white;
+                padding-left: 30px;
+                padding-right: 30px;
             }
         }
     }
@@ -101,11 +107,13 @@ html{
 }
 
 
-
+h1{
+    color: #158CC2;
+}
 
 h2 {
     font-size: 1.55em !important; /* 30px/16=1.875em */
-    color: $my-brown;
+    color: #158CC2;
     padding-top: 20px;
     padding-bottom: 30px;
 }
@@ -137,3 +145,4 @@ h6{
         &:active{ color: $my-brown !important;}
     }
 }
+

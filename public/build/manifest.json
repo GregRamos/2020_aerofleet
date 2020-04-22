@@ -1,5 +1,5 @@
 {
-  "build/app.css": "/build/app.00cd953f.css",
+  "build/app.css": "/build/app.3d517cc5.css",
   "build/app.js": "/build/app.af819329.js",
   "build/runtime.js": "/build/runtime.6e3f3c3a.js",
   "build/vendors~app.js": "/build/vendors~app.463c810c.js",
@@ -35,6 +35,11 @@
   "build/images/activites/miniature_spatial_dome_02.jpg": "/build/images/activites/miniature_spatial_dome_02.cbaf63b8.jpg",
   "build/images/activites/miniature_thermolaquage.jpeg": "/build/images/activites/miniature_thermolaquage.9eadf77b.jpeg",
   "build/images/aerofleet_logo.png": "/build/images/aerofleet_logo.e9d27aeb.png",
+  "build/images/aerofleet_logo_transparant copie.png": "/build/images/aerofleet_logo_transparant copie.85a38a36.png",
+  "build/images/aerofleet_logo_transparant.png": "/build/images/aerofleet_logo_transparant.85a38a36.png",
+  "build/images/aerofleet_logo_transparant_2.png": "/build/images/aerofleet_logo_transparant_2.c786bd15.png",
+  "build/images/aerofleet_logo_transparant_2_mini.png": "/build/images/aerofleet_logo_transparant_2_mini.8d461b87.png",
+  "build/images/aerofleet_logo_transparant_mini.png": "/build/images/aerofleet_logo_transparant_mini.8ea249a9.png",
   "build/images/apropos/aerofleet_telescope_chili.jpg": "/build/images/apropos/aerofleet_telescope_chili.a4b48e57.jpg",
   "build/images/apropos/arrow.png": "/build/images/apropos/arrow.ba475248.png",
   "build/images/apropos/carousel_01_telescope_vlt.jpg": "/build/images/apropos/carousel_01_telescope_vlt.a1cef89b.jpg",
@@ -80,8 +85,8 @@
   "build/images/galerie/thermolaquage_01.jpeg": "/build/images/galerie/thermolaquage_01.7b23dc4d.jpeg",
   "build/images/galerie/thermolaquage_02.jpeg": "/build/images/galerie/thermolaquage_02.9e1b4641.jpeg",
   "build/images/magasin/aero_tens_aerofleet_blanc.png": "/build/images/magasin/aero_tens_aerofleet_blanc.80db0fe6.png",
-  "build/images/magasin/aero_tens_aerofleet_blanc.jpeg": "/build/images/magasin/aero_tens_aerofleet_blanc.f044a800.jpeg",
   "build/images/magasin/bome_aerofleet.jpeg": "/build/images/magasin/bome_aerofleet.b77d3e69.jpeg",
+  "build/images/magasin/compressjpeg.zip": "/build/images/magasin/compressjpeg.1d913849.zip",
   "build/images/nautisme/aero_45.jpeg": "/build/images/nautisme/aero_45.feb9a37c.jpeg",
   "build/images/nautisme/aerofleet_bateau_voilier.jpeg": "/build/images/nautisme/aerofleet_bateau_voilier.45573c96.jpeg",
   "build/images/nautisme/aerofleet_interieur_bateau_01.jpeg": "/build/images/nautisme/aerofleet_interieur_bateau_01.1806e5c8.jpeg",
@@ -94,9 +99,5 @@
   "build/images/piscine/Piscine recadree.jpg": "/build/images/piscine/Piscine recadree.87fd6743.jpg",
   "build/images/piscine/piscine_01.jpeg": "/build/images/piscine/piscine_01.e494d5c9.jpeg",
   "build/images/piscine/piscine_02.jpeg": "/build/images/piscine/piscine_02.32a96582.jpeg",
-  "build/images/piscine/piscine_03.jpeg": "/build/images/piscine/piscine_03.66db3f75.jpeg",
-  "build/images/apropos/fond-ciel-min.jpg": "/build/images/apropos/fond-ciel-min.84f081b5.jpg",
-  "build/images/french_flag-compressor.png": "/build/images/french_flag-compressor.cf075fa8.png",
-  "build/images/magasin/compressjpeg.zip": "/build/images/magasin/compressjpeg.1d913849.zip",
-  "build/images/piscine/Piscine-recadree.jpg": "/build/images/piscine/Piscine-recadree.87fd6743.jpg"
+  "build/images/piscine/piscine_03.jpeg": "/build/images/piscine/piscine_03.66db3f75.jpeg"
 }
