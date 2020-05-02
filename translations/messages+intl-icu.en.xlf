@@ -581,6 +581,14 @@
         <source>Exclusivités nautisme</source>
         <target>Nautical Exclusivities</target>
       </trans-unit>
+      <trans-unit id="ZAUs_G4" resname="Spécialiste du revêtement métalique (Thermolaquage) et des pièces de grandes qualités dans le domaine nautique, spatial, aéronautique, militaire et piscine.">
+        <source>Spécialiste du revêtement métalique (Thermolaquage) et des pièces de grandes qualités dans le domaine nautique, spatial, aéronautique, militaire et piscine.</source>
+        <target>__Spécialiste du revêtement métalique (Thermolaquage) et des pièces de grandes qualités dans le domaine nautique, spatial, aéronautique, militaire et piscine.</target>
+      </trans-unit>
+      <trans-unit id="b9LBm2D" resname="Aerofleet est une entreprise spécialisée dans les composites high tech">
+        <source>Aerofleet est une entreprise spécialisée dans les composites high tech</source>
+        <target>Aerofleet is specializes in high tech compositesh</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>
