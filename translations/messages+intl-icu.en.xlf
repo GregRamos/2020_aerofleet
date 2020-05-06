@@ -583,11 +583,23 @@
       </trans-unit>
       <trans-unit id="ZAUs_G4" resname="Spécialiste du revêtement métalique (Thermolaquage) et des pièces de grandes qualités dans le domaine nautique, spatial, aéronautique, militaire et piscine.">
         <source>Spécialiste du revêtement métalique (Thermolaquage) et des pièces de grandes qualités dans le domaine nautique, spatial, aéronautique, militaire et piscine.</source>
-        <target>__Spécialiste du revêtement métalique (Thermolaquage) et des pièces de grandes qualités dans le domaine nautique, spatial, aéronautique, militaire et piscine.</target>
+        <target>Specialist in metal coating (powder coating) and high quality parts in yachting, spatial, aeronautical, military and swimming pool fields.</target>
       </trans-unit>
       <trans-unit id="b9LBm2D" resname="Aerofleet est une entreprise spécialisée dans les composites high tech">
         <source>Aerofleet est une entreprise spécialisée dans les composites high tech</source>
         <target>Aerofleet is specializes in high tech compositesh</target>
+      </trans-unit>
+      <trans-unit id="xYcusRO" resname="Depuis 30 ans, Aerofleet est votre partenaire dans le nautisme, les piscines, l'aérospatial,... et votre sous-traitant en peinture par poudrage">
+        <source>Depuis 30 ans, Aerofleet est votre partenaire dans le nautisme, les piscines, l'aérospatial,... et votre sous-traitant en peinture par poudrage</source>
+        <target>For 30 years, Aerofleet has been your partner in yachting, swimming pools, aerospace, ... and your subcontractor in powder coating.</target>
+      </trans-unit>
+      <trans-unit id="LEHr2XS" resname="Matériaux composites et thermolaquage - Aerofleet">
+        <source>Matériaux composites et thermolaquage | Aerofleet</source>
+        <target>Composite materials and powder coating | Aerofleet</target>
+      </trans-unit>
+      <trans-unit id="mzZvk0K" resname="Suivez nous sur Facebook">
+        <source>Suivez nous sur Facebook</source>
+        <target>Follow us on Facebook</target>
       </trans-unit>
     </body>
   </file>
