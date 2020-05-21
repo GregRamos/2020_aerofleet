@@ -27,6 +27,16 @@ hr{
     background-color: #158CC2;
 }
 
+.bg-card{
+    background-color: $my-white;
+    border-radius:10px;
+}
+
+.bg-card-2{
+    background-color: white;
+    border-radius:10px;
+}
+
 html{
     scroll-behavior: smooth;
     background-color: $my-white;
@@ -123,6 +133,7 @@ h2 {
 }
 h3{
     font-size: 1.10em !important; /* 30px/16=1.875em */
+    color: $my-brown;
 }
 h4{
     font-size: 1.05em !important;
