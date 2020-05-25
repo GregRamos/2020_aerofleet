@@ -594,12 +594,16 @@
         <target>For 30 years, Aerofleet has been your partner in yachting, swimming pools, aerospace, ... and your subcontractor in powder coating.</target>
       </trans-unit>
       <trans-unit id="LEHr2XS" resname="Matériaux composites et thermolaquage - Aerofleet">
-        <source>Matériaux composites et thermolaquage | Aerofleet</source>
+        <source>Matériaux composites et thermolaquage - Aerofleet</source>
         <target>Composite materials and powder coating | Aerofleet</target>
       </trans-unit>
       <trans-unit id="mzZvk0K" resname="Suivez nous sur Facebook">
         <source>Suivez nous sur Facebook</source>
         <target>Follow us on Facebook</target>
+      </trans-unit>
+      <trans-unit id="ZQqiAAD" resname="Tensiomètre">
+        <source>Tensiomètre</source>
+        <target>Tensiometer</target>
       </trans-unit>
     </body>
   </file>
